@@ -1,0 +1,584 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>汉师时间尺 · 把教务处通知摊成一张年表</title>
+<meta name="description" content="汉江师范学院教务处 153 条公开通知里的时间节点，自动抽取成年度节律与年表。">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#f7f5f1">
+<meta property="og:type" content="website">
+<meta property="og:title" content="汉师时间尺 · 把教务处通知摊成一张年表">
+<meta property="og:description" content="教务处 153 条通知里，只有 14 条真跟学生的时间安排有关。这里把它们捞出来摊平。">
+<meta property="og:site_name" content="汉师时间尺">
+<style>
+:root {
+  --paper: #f7f5f1;
+  --ink: #1b2b3a;
+  --ink-2: #55647a;
+  --ink-3: #8a94a3;
+  --line: #e3ded4;
+  --card: #fffdf9;
+  --blue: #1f4e73;
+  --blue-l: #e8eef4;
+  --gold: #a3782f;
+  --red: #9c4a3c;
+  --green: #4a6b4f;
+  --radius: 14px;
+  --serif: "Noto Serif SC", "Source Han Serif SC", "Songti SC", "SimSun", serif;
+  --sans: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, -apple-system,
+    sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+body {
+  background-image: radial-gradient(circle at 12% 0%, #ece7dd 0%, transparent 42%),
+    radial-gradient(circle at 88% 8%, #e6ebe8 0%, transparent 38%);
+  background-repeat: no-repeat;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.wrap {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 24px 96px;
+}
+
+/* ---------- hero ---------- */
+.hero {
+  padding: 64px 0 40px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 40px;
+}
+
+.kicker {
+  font-size: 12px;
+  letter-spacing: 0.18em;
+  color: var(--ink-3);
+  margin: 0 0 18px;
+  text-transform: uppercase;
+}
+
+.hero h1 {
+  font-family: var(--serif);
+  font-size: clamp(38px, 6vw, 62px);
+  font-weight: 700;
+  line-height: 1.06;
+  letter-spacing: -0.01em;
+  margin: 0 0 20px;
+}
+
+.hero h1 em {
+  font-style: normal;
+  color: var(--blue);
+  position: relative;
+}
+
+.lede {
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--ink-2);
+  max-width: 620px;
+  margin: 0 0 28px;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  border-top: 1px solid var(--line);
+  padding-top: 20px;
+}
+
+.stat {
+  padding-right: 40px;
+  margin-right: 40px;
+  border-right: 1px solid var(--line);
+}
+
+.stat:last-child {
+  border-right: 0;
+  margin-right: 0;
+  padding-right: 0;
+}
+
+.stat b {
+  display: block;
+  font-family: var(--serif);
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--ink);
+}
+
+.stat span {
+  font-size: 12px;
+  color: var(--ink-3);
+  letter-spacing: 0.06em;
+}
+
+/* ---------- section ---------- */
+.sec {
+  margin: 0 0 56px;
+}
+
+.sec-head {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  margin-bottom: 8px;
+}
+
+.sec-head h2 {
+  font-family: var(--serif);
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: 0.01em;
+}
+
+.sec-head p {
+  margin: 0;
+  font-size: 13px;
+  color: var(--ink-3);
+}
+
+.sec > .sub {
+  font-size: 14px;
+  color: var(--ink-2);
+  margin: 0 0 22px;
+  line-height: 1.7;
+  max-width: 680px;
+}
+
+/* ---------- annual rhythm ---------- */
+.rhythm {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 14px;
+}
+
+.rhythm-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 18px 18px 16px;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.rhythm-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px -18px rgba(27, 43, 58, 0.5);
+}
+
+.rhythm-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 3px;
+  background: var(--accent, var(--blue));
+}
+
+.rhythm-month {
+  font-family: var(--serif);
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--accent, var(--blue));
+}
+
+.rhythm-month small {
+  font-size: 13px;
+  font-family: var(--sans);
+  font-weight: 400;
+  color: var(--ink-3);
+  margin-left: 4px;
+}
+
+.rhythm-cat {
+  font-size: 15px;
+  font-weight: 600;
+  margin: 10px 0 6px;
+}
+
+.rhythm-years {
+  font-size: 12px;
+  color: var(--ink-3);
+  letter-spacing: 0.04em;
+}
+
+.rhythm-sample {
+  font-size: 12px;
+  color: var(--ink-2);
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--line);
+  line-height: 1.6;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ---------- timeline ---------- */
+.year-block {
+  margin-bottom: 34px;
+}
+
+.year-label {
+  font-family: var(--serif);
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--ink-3);
+  letter-spacing: 0.16em;
+  margin: 0 0 12px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.year-label::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--line);
+}
+
+.tl {
+  border-left: 1px solid var(--line);
+  margin-left: 6px;
+  padding-left: 0;
+}
+
+.ev {
+  position: relative;
+  display: grid;
+  grid-template-columns: 92px 1fr;
+  gap: 18px;
+  padding: 12px 0 12px 22px;
+}
+
+.ev::before {
+  content: "";
+  position: absolute;
+  left: -4.5px;
+  top: 19px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent, var(--blue));
+  box-shadow: 0 0 0 4px var(--paper);
+}
+
+.ev-date {
+  font-family: var(--serif);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink-3);
+  padding-top: 2px;
+  white-space: nowrap;
+}
+
+.ev-body {
+  min-width: 0;
+}
+
+.ev-title {
+  font-size: 14.5px;
+  font-weight: 600;
+  line-height: 1.5;
+  margin: 0 0 4px;
+}
+
+.ev-ctx {
+  font-size: 13px;
+  color: var(--ink-2);
+  line-height: 1.65;
+  margin: 0;
+}
+
+.ev-ctx mark {
+  background: var(--blue-l);
+  color: var(--blue);
+  padding: 1px 3px;
+  border-radius: 3px;
+  font-weight: 600;
+}
+
+.tag {
+  display: inline-block;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--blue-l);
+  color: var(--blue);
+  margin-right: 8px;
+  vertical-align: 1px;
+}
+
+.ev-src {
+  font-size: 11.5px;
+  color: var(--ink-3);
+  margin-top: 6px;
+}
+
+.ev-src a {
+  border-bottom: 1px dotted var(--line);
+}
+
+.ev-src a:hover {
+  color: var(--blue);
+  border-color: var(--blue);
+}
+
+/* ---------- footer ---------- */
+.foot {
+  border-top: 1px solid var(--line);
+  padding-top: 22px;
+  font-size: 12.5px;
+  color: var(--ink-3);
+  line-height: 1.9;
+}
+
+.foot a {
+  color: var(--ink-2);
+  border-bottom: 1px dotted var(--line);
+}
+
+@media (max-width: 640px) {
+  .wrap {
+    padding: 0 18px 72px;
+  }
+  .hero {
+    padding: 40px 0 28px;
+  }
+  .stat {
+    padding-right: 22px;
+    margin-right: 22px;
+  }
+  .ev {
+    grid-template-columns: 1fr;
+    gap: 2px;
+    padding-left: 18px;
+  }
+  .ev-date {
+    font-size: 12px;
+  }
+  /* 小屏一律单列，别让 grid 的 minmax 撑破容器 */
+  .next {
+    grid-template-columns: 1fr;
+  }
+  .sec-head {
+    flex-direction: column;
+    gap: 4px;
+    align-items: flex-start;
+  }
+  .stats {
+    gap: 14px 0;
+  }
+  .stat {
+    padding-right: 18px;
+    margin-right: 18px;
+  }
+  .stat b {
+    font-size: 22px;
+  }
+  .sec-head h2 {
+    font-size: 21px;
+  }
+  .pt {
+    font-size: 11.5px;
+  }
+}
+
+/* ---- 矩阵 ---- */
+.mx { overflow-x: auto; padding-bottom: 6px; max-width: 100%; -webkit-overflow-scrolling: touch; }
+.mx-grid { width: 700px; }
+.mx-head, .mx-row { display: grid; grid-template-columns: 112px repeat(12, 1fr); gap: 4px; }
+.mx-head { margin-bottom: 6px; }
+.mx-h { font-size: 11px; color: var(--ink-3); text-align: center; }
+.mx-row { margin-bottom: 4px; align-items: center; }
+.mx-name { font-size: 13px; color: var(--ink-2); display: flex; align-items: center; gap: 8px; white-space: nowrap; }
+.mx-name i { width: 7px; height: 7px; border-radius: 50%; flex: none; }
+.mx-cell { height: 30px; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 11px; font-family: var(--serif); font-weight: 700; background: #efeae0; color: transparent; }
+.mx-cell.lv1 { background: color-mix(in srgb, var(--accent) 20%, #efeae0); color: var(--ink-2); }
+.mx-cell.lv2 { background: color-mix(in srgb, var(--accent) 45%, #efeae0); color: #fff; }
+.mx-cell.lv3 { background: var(--accent); color: #fff; }
+/* ---- next ---- */
+.next { display: grid; grid-template-columns: repeat(auto-fill, minmax(228px, 1fr)); gap: 12px; }
+.next-card { background: var(--card); border: 1px solid var(--line); border-left: 3px solid var(--accent); border-radius: 12px; padding: 16px; }
+.next-when { font-family: var(--serif); font-size: 21px; font-weight: 700; color: var(--accent); line-height: 1.1; }
+.next-what { font-size: 14px; font-weight: 600; margin: 6px 0 6px; }
+.next-why { font-size: 12px; color: var(--ink-3); line-height: 1.65; }
+/* ---- points ---- */
+.points { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.pt { font-size: 12px; color: var(--ink-2); background: #f1ede4; border-radius: 7px; padding: 4px 9px 4px 7px; white-space: nowrap; }
+.pt em { font-style: normal; font-size: 11px; color: #fff; background: var(--accent); border-radius: 4px; padding: 1px 5px; margin-right: 6px; }
+.ev-title a { border-bottom: 1px dotted transparent; }
+.ev-title a:hover { border-color: var(--ink-3); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="hero">
+    <p class="kicker">汉江师范学院 · 教务处公开通知</p>
+    <h1>汉师<em>时间尺</em></h1>
+    <p class="lede">教务处 153 条通知里，真正跟"我什么时候要做什么"有关的只有 14 条。这个站把它们从公文里捞出来，按时间摊平——你能看见四六级、普通话、选课、补考每一年是怎么循环的。</p>
+    <div class="stats">
+      <div class="stat"><b>153</b><span>条公开通知</span></div>
+      <div class="stat"><b>14</b><span>条含时间安排</span></div>
+      <div class="stat"><b>56</b><span>个时间点</span></div>
+      <div class="stat"><b>2023–2026</b><span>覆盖年度</span></div>
+    </div>
+  </header>
+
+  <section class="sec">
+    <div class="sec-head"><h2>接下来该盯哪个月</h2><p>按历史发布节奏推的，不是官方预告</p></div>
+    <p class="sub">教务处发通知的月份比考试日期还稳。下面这些月份，过去两年以上都在发同一类通知——到了就去看一眼。</p>
+    <div class="next"><div class="next-card" style="--accent:#1f4e73">
+      <div class="next-when">2027 年 3 月</div>
+      <div class="next-what">留意 英语四六级 通知</div>
+      <div class="next-why">去年 03.13 发过《关于做好2026年上半年全国大学英语…》</div>
+    </div><div class="next-card" style="--accent:#3c6b7a">
+      <div class="next-when">2027 年 6 月</div>
+      <div class="next-what">留意 转专业 通知</div>
+      <div class="next-why">去年 06.23 发过《关于2025级本科生第二学期转专业的…》</div>
+    </div><div class="next-card" style="--accent:#a3782f">
+      <div class="next-when">2027 年 10 月</div>
+      <div class="next-what">留意 普通话测试 通知</div>
+      <div class="next-why">2 年里 10 月都发过相关通知</div>
+    </div></div>
+  </section>
+
+  <section class="sec">
+    <div class="sec-head"><h2>一年里，事都挤在什么时候</h2><p>颜色越深＝这些年里反复出现</p></div>
+    <p class="sub">横着看一行，就是一个主题一整年的节奏。格子里的数字是这些年该月出现过几次。</p>
+    <div class="mx">
+      <div class="mx-grid">
+        <div class="mx-head"><div></div><div class="mx-h">1</div><div class="mx-h">2</div><div class="mx-h">3</div><div class="mx-h">4</div><div class="mx-h">5</div><div class="mx-h">6</div><div class="mx-h">7</div><div class="mx-h">8</div><div class="mx-h">9</div><div class="mx-h">10</div><div class="mx-h">11</div><div class="mx-h">12</div></div>
+        <div class="mx-row"><div class="mx-name"><i style="background:#1f4e73"></i>英语四六级</div><div class="mx-cell lv0" style="--accent:#1f4e73" title=""></div><div class="mx-cell lv0" style="--accent:#1f4e73" title=""></div><div class="mx-cell lv3" style="--accent:#1f4e73" title="英语四六级 · 3月：2024、2026 年出现过（7 次）">7</div><div class="mx-cell lv0" style="--accent:#1f4e73" title=""></div><div class="mx-cell lv3" style="--accent:#1f4e73" title="英语四六级 · 5月：2024、2026 年出现过（6 次）">6</div><div class="mx-cell lv3" style="--accent:#1f4e73" title="英语四六级 · 6月：2024、2026 年出现过（4 次）">4</div><div class="mx-cell lv0" style="--accent:#1f4e73" title=""></div><div class="mx-cell lv0" style="--accent:#1f4e73" title=""></div><div class="mx-cell lv1" style="--accent:#1f4e73" title="英语四六级 · 9月：2024 年出现过（4 次）">4</div><div class="mx-cell lv0" style="--accent:#1f4e73" title=""></div><div class="mx-cell lv1" style="--accent:#1f4e73" title="英语四六级 · 11月：2024 年出现过（3 次）">3</div><div class="mx-cell lv1" style="--accent:#1f4e73" title="英语四六级 · 12月：2024 年出现过（2 次）">2</div></div><div class="mx-row"><div class="mx-name"><i style="background:#a3782f"></i>普通话测试</div><div class="mx-cell lv0" style="--accent:#a3782f" title=""></div><div class="mx-cell lv0" style="--accent:#a3782f" title=""></div><div class="mx-cell lv0" style="--accent:#a3782f" title=""></div><div class="mx-cell lv0" style="--accent:#a3782f" title=""></div><div class="mx-cell lv0" style="--accent:#a3782f" title=""></div><div class="mx-cell lv0" style="--accent:#a3782f" title=""></div><div class="mx-cell lv0" style="--accent:#a3782f" title=""></div><div class="mx-cell lv0" style="--accent:#a3782f" title=""></div><div class="mx-cell lv1" style="--accent:#a3782f" title="普通话测试 · 9月：2025 年出现过（4 次）">4</div><div class="mx-cell lv2" style="--accent:#a3782f" title="普通话测试 · 10月：2024、2025 年出现过（2 次）">2</div><div class="mx-cell lv2" style="--accent:#a3782f" title="普通话测试 · 11月：2024、2025 年出现过（2 次）">2</div><div class="mx-cell lv0" style="--accent:#a3782f" title=""></div></div><div class="mx-row"><div class="mx-name"><i style="background:#4a6b4f"></i>公共选修课</div><div class="mx-cell lv0" style="--accent:#4a6b4f" title=""></div><div class="mx-cell lv0" style="--accent:#4a6b4f" title=""></div><div class="mx-cell lv0" style="--accent:#4a6b4f" title=""></div><div class="mx-cell lv0" style="--accent:#4a6b4f" title=""></div><div class="mx-cell lv0" style="--accent:#4a6b4f" title=""></div><div class="mx-cell lv0" style="--accent:#4a6b4f" title=""></div><div class="mx-cell lv0" style="--accent:#4a6b4f" title=""></div><div class="mx-cell lv0" style="--accent:#4a6b4f" title=""></div><div class="mx-cell lv0" style="--accent:#4a6b4f" title=""></div><div class="mx-cell lv3" style="--accent:#4a6b4f" title="公共选修课 · 10月：2024、2025 年出现过（7 次）">7</div><div class="mx-cell lv0" style="--accent:#4a6b4f" title=""></div><div class="mx-cell lv3" style="--accent:#4a6b4f" title="公共选修课 · 12月：2024、2025 年出现过（5 次）">5</div></div><div class="mx-row"><div class="mx-name"><i style="background:#9c4a3c"></i>补考</div><div class="mx-cell lv0" style="--accent:#9c4a3c" title=""></div><div class="mx-cell lv1" style="--accent:#9c4a3c" title="补考 · 2月：2024 年出现过（1 次）">1</div><div class="mx-cell lv1" style="--accent:#9c4a3c" title="补考 · 3月：2024 年出现过（4 次）">4</div><div class="mx-cell lv0" style="--accent:#9c4a3c" title=""></div><div class="mx-cell lv0" style="--accent:#9c4a3c" title=""></div><div class="mx-cell lv0" style="--accent:#9c4a3c" title=""></div><div class="mx-cell lv0" style="--accent:#9c4a3c" title=""></div><div class="mx-cell lv0" style="--accent:#9c4a3c" title=""></div><div class="mx-cell lv0" style="--accent:#9c4a3c" title=""></div><div class="mx-cell lv0" style="--accent:#9c4a3c" title=""></div><div class="mx-cell lv0" style="--accent:#9c4a3c" title=""></div><div class="mx-cell lv0" style="--accent:#9c4a3c" title=""></div></div><div class="mx-row"><div class="mx-name"><i style="background:#6b4a7a"></i>期末考试</div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div><div class="mx-cell lv0" style="--accent:#6b4a7a" title=""></div></div><div class="mx-row"><div class="mx-name"><i style="background:#3c6b7a"></i>转专业</div><div class="mx-cell lv0" style="--accent:#3c6b7a" title=""></div><div class="mx-cell lv0" style="--accent:#3c6b7a" title=""></div><div class="mx-cell lv0" style="--accent:#3c6b7a" title=""></div><div class="mx-cell lv0" style="--accent:#3c6b7a" title=""></div><div class="mx-cell lv0" style="--accent:#3c6b7a" title=""></div><div class="mx-cell lv0" style="--accent:#3c6b7a" title=""></div><div class="mx-cell lv3" style="--accent:#3c6b7a" title="转专业 · 7月：2025、2026 年出现过（4 次）">4</div><div class="mx-cell lv0" style="--accent:#3c6b7a" title=""></div><div class="mx-cell lv0" style="--accent:#3c6b7a" title=""></div><div class="mx-cell lv0" style="--accent:#3c6b7a" title=""></div><div class="mx-cell lv0" style="--accent:#3c6b7a" title=""></div><div class="mx-cell lv0" style="--accent:#3c6b7a" title=""></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="sec-head"><h2>年表</h2><p>每条都能点回原文</p></div>
+    <p class="sub">一篇通知里往往埋着好几个时间点，这里按动作归成小块。抽错的、漏的，记在项目 README 里。</p>
+    <section class="year-block"><h3 class="year-label">2026</h3><div class="tl"><article class="ev" style="--accent:#3c6b7a">
+          <div class="ev-date">06.23</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#3c6b7a1a;color:#3c6b7a">转专业</span><a href="https://jwc.hjnu.edu.cn/info/1141/6365.htm" target="_blank" rel="noreferrer">关于2025级本科生第二学期转专业的通知</a></p>
+            <div class="points"><span class="pt"><em>公示</em>07.26</span></div>
+          </div>
+        </article><article class="ev" style="--accent:#1f4e73">
+          <div class="ev-date">03.13</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#1f4e731a;color:#1f4e73">英语四六级</span><a href="https://jwc.hjnu.edu.cn/info/1141/6280.htm" target="_blank" rel="noreferrer">关于做好2026年上半年全国大学英语四六级考试报名工作的通知</a></p>
+            <div class="points"><span class="pt"><em>报名</em>03.16–03.30</span><span class="pt"><em>报名</em>06.05–06.13</span><span class="pt"><em>考试</em>05.19–05.24</span></div>
+          </div>
+        </article><article class="ev" style="--accent:#3c6b7a">
+          <div class="ev-date">01.30</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#3c6b7a1a;color:#3c6b7a">转专业</span><a href="https://jwc.hjnu.edu.cn/info/1141/6255.htm" target="_blank" rel="noreferrer">汉江师范学院2026年普通专升本招生简章</a></p>
+            <div class="points"><span class="pt"><em>其他</em>07.31</span></div>
+          </div>
+        </article></div></section><section class="year-block"><h3 class="year-label">2025</h3><div class="tl"><article class="ev" style="--accent:#a3782f">
+          <div class="ev-date">10.10</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#a3782f1a;color:#a3782f">普通话测试</span><a href="https://jwc.hjnu.edu.cn/info/1141/6129.htm" target="_blank" rel="noreferrer">关于2025年下半年普通话水平测试时间的通知</a></p>
+            <div class="points"><span class="pt"><em>考试</em>10.25</span><span class="pt"><em>考试</em>11.08</span></div>
+          </div>
+        </article><article class="ev" style="--accent:#4a6b4f">
+          <div class="ev-date">10.09</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#4a6b4f1a;color:#4a6b4f">公共选修课</span><a href="https://jwc.hjnu.edu.cn/info/1141/6127.htm" target="_blank" rel="noreferrer">关于做好2025-2026-1学期在线通识教育选修课选课工作的通知</a></p>
+            <div class="points"><span class="pt"><em>选课</em>10.13–10.15</span><span class="pt"><em>选课</em>12.19</span><span class="pt"><em>考试</em>10.16</span><span class="pt"><em>考试</em>12.16–12.17</span></div>
+          </div>
+        </article><article class="ev" style="--accent:#a3782f">
+          <div class="ev-date">09.23</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#a3782f1a;color:#a3782f">普通话测试</span><a href="https://jwc.hjnu.edu.cn/info/1141/6119.htm" target="_blank" rel="noreferrer">关于2025年下半年普通话水平测试报名的通知</a></p>
+            <div class="points"><span class="pt"><em>报名</em>09.23–09.30</span><span class="pt"><em>缴费</em>09.26–09.28</span></div>
+          </div>
+        </article><article class="ev" style="--accent:#3c6b7a">
+          <div class="ev-date">06.13</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#3c6b7a1a;color:#3c6b7a">转专业</span><a href="https://jwc.hjnu.edu.cn/info/1141/6063.htm" target="_blank" rel="noreferrer">关于2024级本科生第二学期转专业的通知</a></p>
+            <div class="points"><span class="pt"><em>考试</em>07.12</span></div>
+          </div>
+        </article><article class="ev" style="--accent:#3c6b7a">
+          <div class="ev-date">02.28</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#3c6b7a1a;color:#3c6b7a">转专业</span><a href="https://jwc.hjnu.edu.cn/info/1141/5909.htm" target="_blank" rel="noreferrer">汉江师范学院2025年普通专升本招生简章</a></p>
+            <div class="points"><span class="pt"><em>其他</em>07.31</span></div>
+          </div>
+        </article></div></section><section class="year-block"><h3 class="year-label">2024</h3><div class="tl"><article class="ev" style="--accent:#1f4e73">
+          <div class="ev-date">12.12</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#1f4e731a;color:#1f4e73">英语四六级</span><a href="https://jwc.hjnu.edu.cn/info/1141/5815.htm" target="_blank" rel="noreferrer">2024年下半年全国大学英语四六级考试考前重要提示</a></p>
+            <div class="points"><span class="pt"><em>考试</em>12.14</span></div>
+          </div>
+        </article><article class="ev" style="--accent:#4a6b4f">
+          <div class="ev-date">10.15</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#4a6b4f1a;color:#4a6b4f">公共选修课</span><a href="https://jwc.hjnu.edu.cn/info/1141/5784.htm" target="_blank" rel="noreferrer">关于选修2024-2025-1 学期在线通识选修课的通知</a></p>
+            <div class="points"><span class="pt"><em>选课</em>10.16–10.18</span><span class="pt"><em>选课</em>12.31</span><span class="pt"><em>考试</em>12.29</span></div>
+          </div>
+        </article><article class="ev" style="--accent:#a3782f">
+          <div class="ev-date">10.08</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#a3782f1a;color:#a3782f">普通话测试</span><a href="https://jwc.hjnu.edu.cn/info/1141/5781.htm" target="_blank" rel="noreferrer">关于2024年下半年普通话水平测试时间的通知</a></p>
+            <div class="points"><span class="pt"><em>报名</em>11.09</span><span class="pt"><em>考试</em>10.26</span></div>
+          </div>
+        </article><article class="ev" style="--accent:#1f4e73">
+          <div class="ev-date">09.10</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#1f4e731a;color:#1f4e73">英语四六级</span><a href="https://jwc.hjnu.edu.cn/info/1141/5766.htm" target="_blank" rel="noreferrer">关于做好2024年下半年全国大学英语四六级考试报名工作的通知</a></p>
+            <div class="points"><span class="pt"><em>报名</em>09.11–09.23</span><span class="pt"><em>报名</em>12.06–12.14</span><span class="pt"><em>缴费</em>09.24</span><span class="pt"><em>考试</em>11.12–11.24</span></div>
+          </div>
+        </article><article class="ev" style="--accent:#1f4e73">
+          <div class="ev-date">03.15</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#1f4e731a;color:#1f4e73">英语四六级</span><a href="https://jwc.hjnu.edu.cn/info/1141/5651.htm" target="_blank" rel="noreferrer">关于做好2024年上半年全国大学英语四六级考试报名工作的通知</a></p>
+            <div class="points"><span class="pt"><em>报名</em>03.18–03.28</span><span class="pt"><em>报名</em>06.07–06.15</span><span class="pt"><em>缴费</em>03.29</span><span class="pt"><em>考试</em>05.13–05.19</span></div>
+          </div>
+        </article><article class="ev" style="--accent:#9c4a3c">
+          <div class="ev-date">02.23</div>
+          <div class="ev-body">
+            <p class="ev-title"><span class="tag" style="background:#9c4a3c1a;color:#9c4a3c">补考</span><a href="https://jwc.hjnu.edu.cn/info/1141/5642.htm" target="_blank" rel="noreferrer">关于做好2023-2024-2学期开学补考工作的通知</a></p>
+            <div class="points"><span class="pt"><em>报名</em>03.01</span><span class="pt"><em>考试</em>02.28–03.15</span></div>
+          </div>
+        </article></div></section>
+  </section>
+
+  <footer class="foot">
+    <p>数据来自 <a href="https://jwc.hjnu.edu.cn/index/tzgg.htm" target="_blank" rel="noreferrer">汉江师范学院教务处 · 通知公告</a>，2026-11-19 抓取，共 153 条。只读公开页面，不涉及登录态或个人信息。</p>
+    <p>时间点由脚本从通知正文自动抽取，可能有误，以教务处原文为准。生成于 2026-11-19T14:29:52.217Z</p>
+  </footer>
+
+</div>
+</body>
+</html>

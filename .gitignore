@@ -1,0 +1,6 @@
+node_modules/
+.next/
+*.log
+
+# 本地截图的 iframe 壳子（只为验证移动端，不是产物）
+shots/frame.html

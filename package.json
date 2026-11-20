@@ -1,0 +1,13 @@
+{
+  "name": "hjnu-calendar",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "汉师时间尺：从教务处公开通知里抽出学生时间节点，生成年度节律与年表",
+  "scripts": {
+    "crawl": "node scripts/crawl.mjs",
+    "build": "node scripts/render.mjs",
+    "dev": "node scripts/serve.mjs",
+    "all": "node scripts/crawl.mjs && node scripts/render.mjs"
+  }
+}
