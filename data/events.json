@@ -1,5 +1,5 @@
 {
-  "crawledAt": "2026-11-19T14:29:52.221Z",
+  "crawledAt": "2026-11-19T15:03:23.938Z",
   "count": 215,
   "events": [
     {
@@ -224,32 +224,6 @@
       "noticePublishedAt": "2026-04-24"
     },
     {
-      "date": "2026-04-16",
-      "year": 2026,
-      "month": 4,
-      "day": 16,
-      "category": "考试",
-      "relevance": "B",
-      "context": "进行，现就有关注意事项提醒如下： 一、音乐学（考试科目：音乐技能） 1.4月16日下午15:00—18:30，考生需将自备伴奏音频（为mp3\\wav常用格",
-      "noticeId": 6308,
-      "noticeTitle": "【专升本】汉江师范学院2026年普通专升本考试艺体类专业技能考试考生须知",
-      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6308.htm",
-      "noticePublishedAt": "2026-04-10"
-    },
-    {
-      "date": "2026-04-17",
-      "year": 2026,
-      "month": 4,
-      "day": 17,
-      "category": "考试",
-      "relevance": "B",
-      "context": "场不得以缺工具材料等理由影响考试时间，若违规将被取消考试资格。 2.请于4月17日在12:30到尚艺楼2楼大厅入口检录，统一由工作人员引导进入相应候考区域",
-      "noticeId": 6308,
-      "noticeTitle": "【专升本】汉江师范学院2026年普通专升本考试艺体类专业技能考试考生须知",
-      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6308.htm",
-      "noticePublishedAt": "2026-04-10"
-    },
-    {
       "date": "2026-04-17",
       "year": 2026,
       "month": 4,
@@ -273,6 +247,32 @@
       "noticeId": 6306,
       "noticeTitle": "【专升本】汉江师范学院2026年普通高等学校专升本考试考前提醒",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6306.htm",
+      "noticePublishedAt": "2026-04-10"
+    },
+    {
+      "date": "2026-04-16",
+      "year": 2026,
+      "month": 4,
+      "day": 16,
+      "category": "考试",
+      "relevance": "B",
+      "context": "进行，现就有关注意事项提醒如下： 一、音乐学（考试科目：音乐技能） 1.4月16日下午15:00—18:30，考生需将自备伴奏音频（为mp3\\wav常用格",
+      "noticeId": 6308,
+      "noticeTitle": "【专升本】汉江师范学院2026年普通专升本考试艺体类专业技能考试考生须知",
+      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6308.htm",
+      "noticePublishedAt": "2026-04-10"
+    },
+    {
+      "date": "2026-04-17",
+      "year": 2026,
+      "month": 4,
+      "day": 17,
+      "category": "考试",
+      "relevance": "B",
+      "context": "场不得以缺工具材料等理由影响考试时间，若违规将被取消考试资格。 2.请于4月17日在12:30到尚艺楼2楼大厅入口检录，统一由工作人员引导进入相应候考区域",
+      "noticeId": 6308,
+      "noticeTitle": "【专升本】汉江师范学院2026年普通专升本考试艺体类专业技能考试考生须知",
+      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6308.htm",
       "noticePublishedAt": "2026-04-10"
     },
     {
@@ -658,7 +658,7 @@
       "month": 7,
       "day": 31,
       "category": "其他",
-      "relevance": "A",
+      "relevance": "B",
       "context": "（六）录取后要求已录取的学生不得申请转学或转专业； 应届毕业生考生在 2026年7月31日前未取得专科毕业证书的，取消录取资格； 录取未报到学生空出计划不再补录。",
       "noticeId": 6255,
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
@@ -978,19 +978,6 @@
       "noticePublishedAt": "2025-07-14"
     },
     {
-      "date": "2025-08-20",
-      "year": 2025,
-      "month": 8,
-      "day": 20,
-      "category": "公示",
-      "relevance": "C",
-      "context": "审核及公示无异议后确定申报项目。 （二） 材料报送各二级学院（部门） 于 8月20日前将申请汇总表的 Excel版和PDF版分别报送至教务处邮箱jwc@hj",
-      "noticeId": 6094,
-      "noticeTitle": "【教学研究】关于2025年教学改革研究项目申报工作的通知",
-      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6094.htm",
-      "noticePublishedAt": "2025-07-10"
-    },
-    {
       "date": "2025-07-05",
       "year": 2025,
       "month": 7,
@@ -1001,6 +988,19 @@
       "noticeId": 6092,
       "noticeTitle": "【教学研究】关于公布2025年教学改革研究结题项目的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6092.htm",
+      "noticePublishedAt": "2025-07-10"
+    },
+    {
+      "date": "2025-08-20",
+      "year": 2025,
+      "month": 8,
+      "day": 20,
+      "category": "公示",
+      "relevance": "C",
+      "context": "审核及公示无异议后确定申报项目。 （二） 材料报送各二级学院（部门） 于 8月20日前将申请汇总表的 Excel版和PDF版分别报送至教务处邮箱jwc@hj",
+      "noticeId": 6094,
+      "noticeTitle": "【教学研究】关于2025年教学改革研究项目申报工作的通知",
+      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6094.htm",
       "noticePublishedAt": "2025-07-10"
     },
     {
@@ -1186,19 +1186,6 @@
       "noticePublishedAt": "2025-06-03"
     },
     {
-      "date": "2025-06-03",
-      "year": 2025,
-      "month": 6,
-      "day": 3,
-      "category": "其他",
-      "relevance": "B",
-      "context": "（电子版及签字盖章版） （ 5 ）专业汇报 PPT 。 3. 材料打包于 6月3日前提交至教务处。联系人：王晓双，邮箱： jwc@hjnu,edu.cn",
-      "noticeId": 6033,
-      "noticeTitle": "【学籍学位】关于做好2025年新增学士学位专业授权审核工作的通知",
-      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6033.htm",
-      "noticePublishedAt": "2025-05-29"
-    },
-    {
       "date": "2025-06-09",
       "year": 2025,
       "month": 6,
@@ -1274,6 +1261,19 @@
       "noticeId": 6031,
       "noticeTitle": "【课程考核】关于做好2024-2025学年第二学期期末课程考核工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6031.htm",
+      "noticePublishedAt": "2025-05-29"
+    },
+    {
+      "date": "2025-06-03",
+      "year": 2025,
+      "month": 6,
+      "day": 3,
+      "category": "其他",
+      "relevance": "B",
+      "context": "（电子版及签字盖章版） （ 5 ）专业汇报 PPT 。 3. 材料打包于 6月3日前提交至教务处。联系人：王晓双，邮箱： jwc@hjnu,edu.cn",
+      "noticeId": 6033,
+      "noticeTitle": "【学籍学位】关于做好2025年新增学士学位专业授权审核工作的通知",
+      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6033.htm",
       "noticePublishedAt": "2025-05-29"
     },
     {
@@ -1407,6 +1407,19 @@
       "noticePublishedAt": "2025-04-09"
     },
     {
+      "date": "2025-04-18",
+      "year": 2025,
+      "month": 4,
+      "day": 18,
+      "category": "考试",
+      "relevance": "B",
+      "context": "各位考生：2025年湖北省普通高等学校专升本考试将于 4月18日进行，为端正考风、严肃考纪，共同创造良好的考试环境，现就有关事项告知如下",
+      "noticeId": 5941,
+      "noticeTitle": "2025年湖北省普通高等学校专升本考试考生诚信守法考试告知书",
+      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5941.htm",
+      "noticePublishedAt": "2025-04-09"
+    },
+    {
       "date": "2019-12-01",
       "year": 2019,
       "month": 12,
@@ -1430,19 +1443,6 @@
       "noticeId": 5937,
       "noticeTitle": "2025年湖北省普通高等学校专升本考试考生防诈骗预警提示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5937.htm",
-      "noticePublishedAt": "2025-04-09"
-    },
-    {
-      "date": "2025-04-18",
-      "year": 2025,
-      "month": 4,
-      "day": 18,
-      "category": "考试",
-      "relevance": "B",
-      "context": "各位考生：2025年湖北省普通高等学校专升本考试将于 4月18日进行，为端正考风、严肃考纪，共同创造良好的考试环境，现就有关事项告知如下",
-      "noticeId": 5941,
-      "noticeTitle": "2025年湖北省普通高等学校专升本考试考生诚信守法考试告知书",
-      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5941.htm",
       "noticePublishedAt": "2025-04-09"
     },
     {
@@ -1685,7 +1685,7 @@
       "month": 7,
       "day": 31,
       "category": "其他",
-      "relevance": "A",
+      "relevance": "B",
       "context": "。 （六）录取后要求已录取的学生不得申请转学或转专业； 应届毕业生考生在 7月31日前未取得专科毕业证书的，取消录取资格； 录取未报到学生空出计划不再补录。",
       "noticeId": 5909,
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",

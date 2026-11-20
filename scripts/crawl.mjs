@@ -21,6 +21,8 @@ async function get(url, tries = 3) {
     try {
       const res = await fetch(url, {
         headers: { "User-Agent": UA, "Accept-Language": "zh-CN,zh;q=0.9" },
+        // 没有超时的话，一条卡住的连接能把整批抓取拖死
+        signal: AbortSignal.timeout(15000),
       });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const buf = await res.arrayBuffer();
