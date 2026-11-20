@@ -1,6 +1,6 @@
 {
-  "crawledAt": "2026-11-19T15:03:23.938Z",
-  "count": 215,
+  "crawledAt": "2026-11-20T12:50:07.037Z",
+  "count": 225,
   "events": [
     {
       "date": "2026-07-15",
@@ -10,10 +10,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "详、错误或通信不畅导致的一切后果由考生自行负责。 信息确认或修改时间为 2026年7月15日8:00至 22日22:00。 建议使用手机流量（电脑端可连接手机热点）",
-      "noticeId": 6387,
+      "noticeId": "jwc-6387",
       "noticeTitle": "【专升本】关于专升本预录取考生确认邮寄地址等信息的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6387.htm",
-      "noticePublishedAt": "2026-07-14"
+      "noticePublishedAt": "2026-07-14",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-15",
@@ -23,10 +25,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "，结合实际制订 2025 级本科生第二学期转专业工作方案（附件 2） 。 6月15日 — 18日2 审核方案学校转专业工作领导小组审核各二级学院转专业工作方",
-      "noticeId": 6365,
+      "noticeId": "jwc-6365",
       "noticeTitle": "【学籍学历】关于2025级本科生第二学期转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6365.htm",
-      "noticePublishedAt": "2026-06-23"
+      "noticePublishedAt": "2026-06-23",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-23",
@@ -36,10 +40,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "工作领导小组审核各二级学院转专业工作方案，审核后统一在教务处网站上发布。 6月23日3 学生申请申请学生向原专业所在学院提交《转专业申请表》（附件 3）。",
-      "noticeId": 6365,
+      "noticeId": "jwc-6365",
       "noticeTitle": "【学籍学历】关于2025级本科生第二学期转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6365.htm",
-      "noticePublishedAt": "2026-06-23"
+      "noticePublishedAt": "2026-06-23",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-07-26",
@@ -49,10 +55,12 @@
       "category": "公示",
       "relevance": "A",
       "context": "25 -2026 -2学期成绩以期末考试成绩为准）， 复审学生申请条件。 7月26日前 7 网上公示各转入学院签署意见，提交申请表、转专业名单（附件 5 ）",
-      "noticeId": 6365,
+      "noticeId": "jwc-6365",
       "noticeTitle": "【学籍学历】关于2025级本科生第二学期转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6365.htm",
-      "noticePublishedAt": "2026-06-23"
+      "noticePublishedAt": "2026-06-23",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-10",
@@ -62,10 +70,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "sb.e21.cn/ ，以下简称“补录报名平台”）。 （二） 报名时间：6月10日9:00–6月12日16:00 。 （三） 专业审核：6月13日，我校根",
-      "noticeId": 6347,
+      "noticeId": "jwc-6347",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6347.htm",
-      "noticePublishedAt": "2026-06-09"
+      "noticePublishedAt": "2026-06-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-12",
@@ -75,10 +85,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "，以下简称“补录报名平台”）。 （二） 报名时间：6月10日9:00–6月12日16:00 。 （三） 专业审核：6月13日，我校根据补录招生专业对高职",
-      "noticeId": 6347,
+      "noticeId": "jwc-6347",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6347.htm",
-      "noticePublishedAt": "2026-06-09"
+      "noticePublishedAt": "2026-06-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-13",
@@ -88,10 +100,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "名时间：6月10日9:00–6月12日16:00 。 （三） 专业审核：6月13日，我校根据补录招生专业对高职（专科）专业要求及专业相关性规定，通过补录报",
-      "noticeId": 6347,
+      "noticeId": "jwc-6347",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6347.htm",
-      "noticePublishedAt": "2026-06-09"
+      "noticePublishedAt": "2026-06-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-14",
@@ -101,10 +115,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "通过的考生方可获得补录资格。 （四） 志愿更正：专业审核未通过的考生可于 6月14日8:00–20:00 更正志愿信息。 审核通过的考生不得再更改志愿信息。",
-      "noticeId": 6347,
+      "noticeId": "jwc-6347",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6347.htm",
-      "noticePublishedAt": "2026-06-09"
+      "noticePublishedAt": "2026-06-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-15",
@@ -114,10 +130,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "8:00–20:00 更正志愿信息。 审核通过的考生不得再更改志愿信息。 6月15日，学校再次进行专业审核。 四、资格审核考生专业审核通过后，须进行资格审核",
-      "noticeId": 6347,
+      "noticeId": "jwc-6347",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6347.htm",
-      "noticePublishedAt": "2026-06-09"
+      "noticePublishedAt": "2026-06-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-16",
@@ -127,10 +145,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "成绩单（所在学校教务处盖章）。 材料提交时间为 6月13日15:00 － 6月16日18:00 ， 审核标准与第一阶段保持一致，逾期未提交的视为考生放弃报名",
-      "noticeId": 6347,
+      "noticeId": "jwc-6347",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6347.htm",
-      "noticePublishedAt": "2026-06-09"
+      "noticePublishedAt": "2026-06-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-09",
@@ -140,10 +160,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "附件：2026年湖北省普通高校专升本普通考生补录须知汉江师范学院教务处 2026年6月9日附件：2026年湖北省普通高校专升本普通考生补录须知 1.补录报名时间为",
-      "noticeId": 6347,
+      "noticeId": "jwc-6347",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6347.htm",
-      "noticePublishedAt": "2026-06-09"
+      "noticePublishedAt": "2026-06-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-10",
@@ -153,10 +175,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "台（http://zsb.e21.cn/，以下简称“补录报名平台”）将于6月10日上午9:00开放，补录网络报名截止时间为6月12日16:00。相关高校补",
-      "noticeId": 6342,
+      "noticeId": "jwc-6342",
       "noticeTitle": "【专升本】2026年湖北省专升本补录工作启动信息提示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6342.htm",
-      "noticePublishedAt": "2026-06-05"
+      "noticePublishedAt": "2026-06-05",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-12",
@@ -166,10 +190,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "“补录报名平台”）将于6月10日上午9:00开放，补录网络报名截止时间为6月12日16:00。相关高校补录工作公告将于6月10日前在学校工作网站发布（平台",
-      "noticeId": 6342,
+      "noticeId": "jwc-6342",
       "noticeTitle": "【专升本】2026年湖北省专升本补录工作启动信息提示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6342.htm",
-      "noticePublishedAt": "2026-06-05"
+      "noticePublishedAt": "2026-06-05",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-05-09",
@@ -179,10 +205,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "绩（含总成绩）查询与大学英语科目成绩复核相关事项通知如下： 一、成绩查询 5月9日16:00起，考生可登录汉江师范学院普通专升本考试报名系统（http：／",
-      "noticeId": 6319,
+      "noticeId": "jwc-6319",
       "noticeTitle": "【专升本】关于公布2026年普通高等学校专升本考试大学英语科目成绩（含总成绩）的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6319.htm",
-      "noticePublishedAt": "2026-05-09"
+      "noticePublishedAt": "2026-05-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-05-11",
@@ -192,10 +220,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "分标准的执行情况不属于核查范围）。 （一）申请时间：5月9日16:00－5月11日18:00。 （二）申请流程：考生在我校专升本考试报名系统 “成绩查询－",
-      "noticeId": 6319,
+      "noticeId": "jwc-6319",
       "noticeTitle": "【专升本】关于公布2026年普通高等学校专升本考试大学英语科目成绩（含总成绩）的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6319.htm",
-      "noticePublishedAt": "2026-05-09"
+      "noticePublishedAt": "2026-05-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-04-24",
@@ -205,10 +235,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "课成绩（含退役大学生士兵综合考查成绩）发布事项通知如下： 一、 成绩查询 4月24日16:00 起，考生登录汉江师范学院普通专升本考试报名系统（ http",
-      "noticeId": 6314,
+      "noticeId": "jwc-6314",
       "noticeTitle": "【专升本】汉江师范学院关于发布2026年普通专升本考试专业课成绩的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6314.htm",
-      "noticePublishedAt": "2026-04-24"
+      "noticePublishedAt": "2026-04-24",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-04-25",
@@ -218,10 +250,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "的执行情况不属于核查范围）。 （一） 申请时间：4月24日16:00 － 4月25日18:00 。 （二） 申请流程：考生在我校专升本考试报名系统 “ 成绩",
-      "noticeId": 6314,
+      "noticeId": "jwc-6314",
       "noticeTitle": "【专升本】汉江师范学院关于发布2026年普通专升本考试专业课成绩的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6314.htm",
-      "noticePublishedAt": "2026-04-24"
+      "noticePublishedAt": "2026-04-24",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-04-17",
@@ -231,10 +265,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "各位考生:2026年湖北省普通高等学校专升本考试将于4月17日进行，为便于广大考生顺利参加考试，现将有关事项提醒如下： 一、考前准备",
-      "noticeId": 6306,
+      "noticeId": "jwc-6306",
       "noticeTitle": "【专升本】汉江师范学院2026年普通高等学校专升本考试考前提醒",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6306.htm",
-      "noticePublishedAt": "2026-04-10"
+      "noticePublishedAt": "2026-04-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-04-10",
@@ -244,10 +280,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "1.及时打印准考证。准考证在学校“专升本信息服务平台”打印，打印时间：4月10日—4月17日。 2.合理安排出行。 提前规划好出行时间、交通工具和住宿安",
-      "noticeId": 6306,
+      "noticeId": "jwc-6306",
       "noticeTitle": "【专升本】汉江师范学院2026年普通高等学校专升本考试考前提醒",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6306.htm",
-      "noticePublishedAt": "2026-04-10"
+      "noticePublishedAt": "2026-04-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-04-16",
@@ -257,10 +295,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "进行，现就有关注意事项提醒如下： 一、音乐学（考试科目：音乐技能） 1.4月16日下午15:00—18:30，考生需将自备伴奏音频（为mp3\\wav常用格",
-      "noticeId": 6308,
+      "noticeId": "jwc-6308",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本考试艺体类专业技能考试考生须知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6308.htm",
-      "noticePublishedAt": "2026-04-10"
+      "noticePublishedAt": "2026-04-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-04-17",
@@ -270,10 +310,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "场不得以缺工具材料等理由影响考试时间，若违规将被取消考试资格。 2.请于4月17日在12:30到尚艺楼2楼大厅入口检录，统一由工作人员引导进入相应候考区域",
-      "noticeId": 6308,
+      "noticeId": "jwc-6308",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本考试艺体类专业技能考试考生须知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6308.htm",
-      "noticePublishedAt": "2026-04-10"
+      "noticePublishedAt": "2026-04-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2019-12-01",
@@ -283,10 +325,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "现金。 收到定金后，陈某伙同其朋友吴某，找到某大学在读学生齐某来替考。 2019年12月1日上午，齐某来到某中学考场代替周某女儿参加素描考试，在开考一小时后被巡视员",
-      "noticeId": 6301,
+      "noticeId": "jwc-6301",
       "noticeTitle": "【专升本】2026年湖北省普通高等学校专升本考试考生防诈骗预警提示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6301.htm",
-      "noticePublishedAt": "2026-04-08"
+      "noticePublishedAt": "2026-04-08",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2022-06-07",
@@ -296,10 +340,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "试法终将 “自食恶果”。 二、违禁物品切莫带，网络诈骗须警惕 【案情】 2022年6月7日下午高考数学科目考试结束后，有网民发布数学全国乙卷、全国新高考数学I卷部",
-      "noticeId": 6301,
+      "noticeId": "jwc-6301",
       "noticeTitle": "【专升本】2026年湖北省普通高等学校专升本考试考生防诈骗预警提示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6301.htm",
-      "noticePublishedAt": "2026-04-08"
+      "noticePublishedAt": "2026-04-08",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-04-17",
@@ -309,10 +355,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "各位考生：2026年湖北省普通高等学校专升本考试定于 4月17日举行。为维护良好的考试秩序，营造公平公正的应考环境，强化考风考纪建设，现",
-      "noticeId": 6303,
+      "noticeId": "jwc-6303",
       "noticeTitle": "【专升本】2026年湖北省普通高等学校专升本考试考生诚信守法考试告知书",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6303.htm",
-      "noticePublishedAt": "2026-04-08"
+      "noticePublishedAt": "2026-04-08",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-13",
@@ -322,10 +370,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "（以下称CET-SET）和笔试（以下称CET）将分别于5月23至24日和6月13日举行。为做好我校网上报名工作，现将有关事项通知如下： 一、开考科目和时间",
-      "noticeId": 6280,
+      "noticeId": "jwc-6280",
       "noticeTitle": "【考试报名】关于做好2026年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6280.htm",
-      "noticePublishedAt": "2026-03-13"
+      "noticePublishedAt": "2026-03-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-05-23",
@@ -335,10 +385,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "ET-SET 科目和时间英语四级口语考试（ CET-SET4）考试时间为5月23日（F261次），英语六级口语考试（CET-SET6）考试时间为5月24日",
-      "noticeId": 6280,
+      "noticeId": "jwc-6280",
       "noticeTitle": "【考试报名】关于做好2026年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6280.htm",
-      "noticePublishedAt": "2026-03-13"
+      "noticePublishedAt": "2026-03-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-05-24",
@@ -348,10 +400,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "5月23日（F261次），英语六级口语考试（CET-SET6）考试时间为5月24日（S262次）。具体场次视报名情况另行通知。 （二） CET科目和时间日",
-      "noticeId": 6280,
+      "noticeId": "jwc-6280",
       "noticeTitle": "【考试报名】关于做好2026年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6280.htm",
-      "noticePublishedAt": "2026-03-13"
+      "noticePublishedAt": "2026-03-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-16",
@@ -361,10 +415,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "科目； ( 5 ) 网上缴费。 （三）时间安排 1.账号注册、信息校对：3月16日14:00-3月18日8:00（此阶段只能核对信息，不能报名、缴费）。",
-      "noticeId": 6280,
+      "noticeId": "jwc-6280",
       "noticeTitle": "【考试报名】关于做好2026年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6280.htm",
-      "noticePublishedAt": "2026-03-13"
+      "noticePublishedAt": "2026-03-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-18",
@@ -374,10 +430,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "上缴费。 （三）时间安排 1.账号注册、信息校对：3月16日14:00-3月18日8:00（此阶段只能核对信息，不能报名、缴费）。 2.网上报名：3月18",
-      "noticeId": 6280,
+      "noticeId": "jwc-6280",
       "noticeTitle": "【考试报名】关于做好2026年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6280.htm",
-      "noticePublishedAt": "2026-03-13"
+      "noticePublishedAt": "2026-03-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-30",
@@ -387,10 +445,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "段只能核对信息，不能报名、缴费）。 2.网上报名：3月18日8:00 —3月30日17:00 （此阶段核对信息、报名和缴费），口语考试报名与笔试报名同步进",
-      "noticeId": 6280,
+      "noticeId": "jwc-6280",
       "noticeTitle": "【考试报名】关于做好2026年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6280.htm",
-      "noticePublishedAt": "2026-03-13"
+      "noticePublishedAt": "2026-03-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-05-19",
@@ -400,10 +460,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "缴费），口语考试报名与笔试报名同步进行。 （四）准考证打印口试准考证打印 5月19日开始，笔试准考证打印6月5日开始，考生登录报名系统自行完成准考证打印。",
-      "noticeId": 6280,
+      "noticeId": "jwc-6280",
       "noticeTitle": "【考试报名】关于做好2026年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6280.htm",
-      "noticePublishedAt": "2026-03-13"
+      "noticePublishedAt": "2026-03-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-06-05",
@@ -413,10 +475,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "步进行。 （四）准考证打印口试准考证打印 5月19日开始，笔试准考证打印6月5日开始，考生登录报名系统自行完成准考证打印。 四、报名费用按照湖北省物价局",
-      "noticeId": 6280,
+      "noticeId": "jwc-6280",
       "noticeTitle": "【考试报名】关于做好2026年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6280.htm",
-      "noticePublishedAt": "2026-03-13"
+      "noticePublishedAt": "2026-03-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-03",
@@ -426,10 +490,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "，不允许转包、分包本项目服务内容。 四、 报名相关事宜 （一）报名时间 2026年3月3日至 2026年3月9日 （每日9:00－17:00），逾期发送的报名材料",
-      "noticeId": 6260,
+      "noticeId": "jwc-6260",
       "noticeTitle": "汉江师范学院2027－2029届毕业生学历注册图像采集服务遴选公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6260.htm",
-      "noticePublishedAt": "2026-03-03"
+      "noticePublishedAt": "2026-03-03",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-09",
@@ -439,10 +505,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "目服务内容。 四、 报名相关事宜 （一）报名时间 2026年3月3日至 2026年3月9日 （每日9:00－17:00），逾期发送的报名材料不予受理。 （二）报名",
-      "noticeId": 6260,
+      "noticeId": "jwc-6260",
       "noticeTitle": "汉江师范学院2027－2029届毕业生学历注册图像采集服务遴选公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6260.htm",
-      "noticePublishedAt": "2026-03-03"
+      "noticePublishedAt": "2026-03-03",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-13",
@@ -452,10 +520,72 @@
       "category": "其他",
       "relevance": "B",
       "context": "预审通过发放正式遴选文件。 五、 遴选响应文件递交 （一）递交截止时间 2026年3月13日15:00（北京时间），逾期递交、未按要求密封／提交的响应文件，学校一律",
-      "noticeId": 6260,
+      "noticeId": "jwc-6260",
       "noticeTitle": "汉江师范学院2027－2029届毕业生学历注册图像采集服务遴选公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6260.htm",
-      "noticePublishedAt": "2026-03-03"
+      "noticePublishedAt": "2026-03-03",
+      "source": "jwc",
+      "sourceName": "教务处"
+    },
+    {
+      "date": "2026-04-04",
+      "year": 2026,
+      "month": 4,
+      "day": 4,
+      "category": "假期",
+      "relevance": "A",
+      "context": "026 学年第二学期节假日放假调休日期的具体安排通知如下：1. 清明节：4月4日（周六）至 6日（周一）放假，共 3 天。 2. 劳动节：5月1日（周五",
+      "noticeId": "itsc-1462",
+      "noticeTitle": "关于2025-2026学年第二学期节假日安排的通知",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1462.htm",
+      "noticePublishedAt": "2026-02-27",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
+    },
+    {
+      "date": "2026-05-01",
+      "year": 2026,
+      "month": 5,
+      "day": 1,
+      "category": "假期",
+      "relevance": "A",
+      "context": "明节：4月4日（周六）至 6日（周一）放假，共 3 天。 2. 劳动节：5月1日（周五）至 5日（周二）放假调休，共 5 天。 5月9日（周六）上班，上",
+      "noticeId": "itsc-1462",
+      "noticeTitle": "关于2025-2026学年第二学期节假日安排的通知",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1462.htm",
+      "noticePublishedAt": "2026-02-27",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
+    },
+    {
+      "date": "2026-05-09",
+      "year": 2026,
+      "month": 5,
+      "day": 9,
+      "category": "假期",
+      "relevance": "A",
+      "context": "。 2. 劳动节：5月1日（周五）至 5日（周二）放假调休，共 5 天。 5月9日（周六）上班，上双周星期一的课。 3. 端午节：6月19日（周五）至 2",
+      "noticeId": "itsc-1462",
+      "noticeTitle": "关于2025-2026学年第二学期节假日安排的通知",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1462.htm",
+      "noticePublishedAt": "2026-02-27",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
+    },
+    {
+      "date": "2026-06-19",
+      "year": 2026,
+      "month": 6,
+      "day": 19,
+      "category": "假期",
+      "relevance": "A",
+      "context": "，共 5 天。 5月9日（周六）上班，上双周星期一的课。 3. 端午节：6月19日（周五）至 21日（周日）放假，共 3 天。 特此通知。 校长办公室 2",
+      "noticeId": "itsc-1462",
+      "noticeTitle": "关于2025-2026学年第二学期节假日安排的通知",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1462.htm",
+      "noticePublishedAt": "2026-02-27",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
     },
     {
       "date": "2026-03-10",
@@ -465,10 +595,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "应责任。 2.志愿填报 （ 1） 普通考生及专项计划考生。 报名时间为 2026年3月10日8：00-3月13日20：00 ， 按要求如实填写《 2026年湖北省普",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-13",
@@ -478,10 +610,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "） 普通考生及专项计划考生。 报名时间为 2026年3月10日8：00-3月13日20：00 ， 按要求如实填写《 2026年湖北省普通高等学校专升本报名",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-02-25",
@@ -491,10 +625,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "传相关材料。每生限报一所高校的一个专业。 （ 2 ） 退役大学生士兵。 2026年2月25日8：00-2月28日20：00 进行预报名，符合报名资格条件的退役大学生",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-02-28",
@@ -504,10 +640,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "一个专业。 （ 2 ） 退役大学生士兵。 2026年2月25日8：00-2月28日20：00 进行预报名，符合报名资格条件的退役大学生士兵登录报名平台，填",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-14",
@@ -517,10 +655,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "（ 3）网络报名期间， 平台每天公布一次分校分专业报名情况。 （ 4） 3月14日8：00-3月17日20：00 ， 我校对考生志愿信息进行审核；志愿信息",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-17",
@@ -530,10 +670,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "， 平台每天公布一次分校分专业报名情况。 （ 4） 3月14日8：00-3月17日20：00 ， 我校对考生志愿信息进行审核；志愿信息审核通过的考生不得更",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-18",
@@ -543,10 +685,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "核；志愿信息审核通过的考生不得更改志愿信息；志愿信息审核未通过的考生可在 3月18日8：00-20：00更正志愿一次；3月19日8：00-20：00我校对更",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-19",
@@ -556,10 +700,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "愿信息审核未通过的考生可在 3月18日8：00-20：00更正志愿一次；3月19日8：00-20：00我校对更正志愿的考生进行专业志愿终审。 （ 5） 考",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-20",
@@ -569,10 +715,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "生及时联系学校学籍管理老师。 （二）资格审核 1. 材料提交与审核时间 2026年3月20日9:00— 3月21日18:002. 材料提交方式考生在湖北省普通高等学",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-21",
@@ -582,10 +730,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "（二）资格审核 1. 材料提交与审核时间 2026年3月20日9:00— 3月21日18:002. 材料提交方式考生在湖北省普通高等学校专升本报名平台报名成",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-03-22",
@@ -595,10 +745,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "湖北省普通高等学校专升本报名平台报名成功后， 可在 3月14日8：00-3月22日20：00 期间打印报名申请表，然后登录我校专升本工作网站 https:",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-04-17",
@@ -608,10 +760,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "一律不再退费。 四、 考试 （一） 考试科目及时间安排专业名称公共课 （ 4月17日9:00—11:00 ） 专业课 （ 4月17日14:00—16:00",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-04-10",
@@ -621,10 +775,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "考试科目均无选择题，无判断题，其他题型不限。 （二）考试须知 1.考生于 4月10日 - 4月17日登陆我校专升本工作网站，进入 “专升本信息服务平台”，自",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-04-24",
@@ -634,10 +790,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "参照国家教育考试相关法律法规和学生管理规定进行处理。 （三）考试成绩发布 4月24日16:00公布专业课、 职业适应性综合考查成绩并受理复查申请。 5月9日",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-05-12",
@@ -647,10 +805,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "语、专业课）并受理大学英语成绩复查申请， 大学英语成绩复查受理截止时间为 5月12日上午 9 点前。 考生可凭身份证号在我校专升本信息服务平台查询成绩， 如",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2026-07-31",
@@ -660,10 +820,87 @@
       "category": "其他",
       "relevance": "B",
       "context": "（六）录取后要求已录取的学生不得申请转学或转专业； 应届毕业生考生在 2026年7月31日前未取得专科毕业证书的，取消录取资格； 录取未报到学生空出计划不再补录。",
-      "noticeId": 6255,
+      "noticeId": "jwc-6255",
       "noticeTitle": "【专升本】汉江师范学院2026年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6255.htm",
-      "noticePublishedAt": "2026-01-30"
+      "noticePublishedAt": "2026-01-30",
+      "source": "jwc",
+      "sourceName": "教务处"
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "month": 1,
+      "day": 1,
+      "category": "假期",
+      "relevance": "A",
+      "context": "，结合学校实际，现将 2026年元旦、寒假放假有关安排通知如下： 元旦：2026年1月1日（周四）至 3日（周六）放假调休 3天，1月4日（周日）上班。 寒假：学",
+      "noticeId": "itsc-1397",
+      "noticeTitle": "关于2026年元旦、寒假放假的通知",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1397.htm",
+      "noticePublishedAt": "2025-12-17",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
+    },
+    {
+      "date": "2026-01-04",
+      "year": 2026,
+      "month": 1,
+      "day": 4,
+      "category": "假期",
+      "relevance": "A",
+      "context": "如下： 元旦：2026年1月1日（周四）至 3日（周六）放假调休 3天，1月4日（周日）上班。 寒假：学生 2026年1月12日放寒假，2月28日（周六",
+      "noticeId": "itsc-1397",
+      "noticeTitle": "关于2026年元旦、寒假放假的通知",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1397.htm",
+      "noticePublishedAt": "2025-12-17",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
+    },
+    {
+      "date": "2026-01-12",
+      "year": 2026,
+      "month": 1,
+      "day": 12,
+      "category": "假期",
+      "relevance": "A",
+      "context": "四）至 3日（周六）放假调休 3天，1月4日（周日）上班。 寒假：学生 2026年1月12日放寒假，2月28日（周六，正月十二）、3月1日报到，3月2日（周一）正式",
+      "noticeId": "itsc-1397",
+      "noticeTitle": "关于2026年元旦、寒假放假的通知",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1397.htm",
+      "noticePublishedAt": "2025-12-17",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
+    },
+    {
+      "date": "2026-02-28",
+      "year": 2026,
+      "month": 2,
+      "day": 28,
+      "category": "假期",
+      "relevance": "A",
+      "context": "3天，1月4日（周日）上班。 寒假：学生 2026年1月12日放寒假，2月28日（周六，正月十二）、3月1日报到，3月2日（周一）正式上课。 教职员工从",
+      "noticeId": "itsc-1397",
+      "noticeTitle": "关于2026年元旦、寒假放假的通知",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1397.htm",
+      "noticePublishedAt": "2025-12-17",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
+    },
+    {
+      "date": "2026-03-01",
+      "year": 2026,
+      "month": 3,
+      "day": 1,
+      "category": "开学",
+      "relevance": "A",
+      "context": "寒假：学生 2026年1月12日放寒假，2月28日（周六，正月十二）、3月1日报到，3月2日（周一）正式上课。 教职员工从 2026年1月19日开始轮",
+      "noticeId": "itsc-1397",
+      "noticeTitle": "关于2026年元旦、寒假放假的通知",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1397.htm",
+      "noticePublishedAt": "2025-12-17",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
     },
     {
       "date": "2025-12-04",
@@ -673,10 +910,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "1）文件规定，结合实际制订2025 级本科生转专业工作方案（附件 2） 12月4日 — 8日2 审核方案学校转专业工作领导小组审核各二级学院转专业工作方案",
-      "noticeId": 6167,
+      "noticeId": "jwc-6167",
       "noticeTitle": "【学籍学位】关于2025级本科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6167.htm",
-      "noticePublishedAt": "2025-12-10"
+      "noticePublishedAt": "2025-12-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-12-09",
@@ -686,23 +925,27 @@
       "category": "其他",
       "relevance": "B",
       "context": "业工作领导小组审核各二级学院转专业工作方案，审核后统一在教务处网站上发布 12月9日 — 10日3 学生申请申请学生向原专业所在学院提交《转专业申请表》（附",
-      "noticeId": 6167,
+      "noticeId": "jwc-6167",
       "noticeTitle": "【学籍学位】关于2025级本科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6167.htm",
-      "noticePublishedAt": "2025-12-10"
+      "noticePublishedAt": "2025-12-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
-      "date": "2025-01-22",
-      "year": 2025,
+      "date": "2026-01-22",
+      "year": 2026,
       "month": 1,
       "day": 22,
       "category": "公示",
       "relevance": "B",
       "context": "1日6 资格复审各转出学院核查学生本学期修读课程成绩， 复审学生申请条件 1月22日前 7 网上公示各转入学院签署转入学院意见， 提交申请表及转专业名单（附",
-      "noticeId": 6167,
+      "noticeId": "jwc-6167",
       "noticeTitle": "【学籍学位】关于2025级本科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6167.htm",
-      "noticePublishedAt": "2025-12-10"
+      "noticePublishedAt": "2025-12-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-11-27",
@@ -712,10 +955,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "专业工作小组结合实际制订 2025 级专科生转专业工作方案（附件 1 ） 11月27日 — 12月1日2 审核方案学校转专业工作领导小组审核各相关学院专科生转",
-      "noticeId": 6162,
+      "noticeId": "jwc-6162",
       "noticeTitle": "【学籍学位】关于2025级专科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6162.htm",
-      "noticePublishedAt": "2025-12-02"
+      "noticePublishedAt": "2025-12-02",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-12-01",
@@ -725,10 +970,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "际制订 2025 级专科生转专业工作方案（附件 1 ） 11月27日 — 12月1日2 审核方案学校转专业工作领导小组审核各相关学院专科生转专业工作方案，审",
-      "noticeId": 6162,
+      "noticeId": "jwc-6162",
       "noticeTitle": "【学籍学位】关于2025级专科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6162.htm",
-      "noticePublishedAt": "2025-12-02"
+      "noticePublishedAt": "2025-12-02",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-12-02",
@@ -738,10 +985,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "领导小组审核各相关学院专科生转专业工作方案，审核后统一在教务处网站上发布 12月2日3 学生申请申请学生向丹江口校区（管委会办公室） 提交《转专业申请表》（",
-      "noticeId": 6162,
+      "noticeId": "jwc-6162",
       "noticeTitle": "【学籍学位】关于2025级专科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6162.htm",
-      "noticePublishedAt": "2025-12-02"
+      "noticePublishedAt": "2025-12-02",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-12-03",
@@ -751,10 +1000,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "申请学生向丹江口校区（管委会办公室） 提交《转专业申请表》（附件 2 ） 12月3日 — 8日4 资格初审各转出学院审核申请学生条件， 签署转出学院意见，",
-      "noticeId": 6162,
+      "noticeId": "jwc-6162",
       "noticeTitle": "【学籍学位】关于2025级专科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6162.htm",
-      "noticePublishedAt": "2025-12-02"
+      "noticePublishedAt": "2025-12-02",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-12-11",
@@ -764,10 +1015,12 @@
       "category": "公示",
       "relevance": "B",
       "context": "10日5 组织考核各转入学院根据转专业工作方案，对申请转入学生进行考核 12月11日 — 14日6 网上公示各转入学院签署转入学院意见， 提交申请表及转专业",
-      "noticeId": 6162,
+      "noticeId": "jwc-6162",
       "noticeTitle": "【学籍学位】关于2025级专科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6162.htm",
-      "noticePublishedAt": "2025-12-02"
+      "noticePublishedAt": "2025-12-02",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-11-24",
@@ -777,10 +1030,12 @@
       "category": "其他",
       "relevance": "C",
       "context": "优先支持已有较好建设基础的课程。 六、材料提交教学单位审核教师申报材料， 11月24日下午下班前提交推荐申报汇总表 (附件2) PDF版( 需签字盖章 )及E",
-      "noticeId": 6145,
+      "noticeId": "jwc-6145",
       "noticeTitle": "【课程建设】关于开展2025年智慧课程建设项目申报工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6145.htm",
-      "noticePublishedAt": "2025-11-03"
+      "noticePublishedAt": "2025-11-03",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-10-20",
@@ -790,10 +1045,12 @@
       "category": "其他",
       "relevance": "C",
       "context": "年校级一等奖、二等奖等获奖项目中择优遴选。 二、材料提交时间和要求 1.10月20日上午11:00前：教学成果主要负责人所在单位将申报书（见附件 2 ）及支",
-      "noticeId": 6133,
+      "noticeId": "jwc-6133",
       "noticeTitle": "【教学成果】关于开展2025年校级教学成果奖评选暨省教学成果奖推荐工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6133.htm",
-      "noticePublishedAt": "2025-10-13"
+      "noticePublishedAt": "2025-10-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-10-25",
@@ -803,10 +1060,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "根据湖北省测试中心和学校工作安排 ,2025年下半年普通话水平测试将于 10月25日开始，后续分期分批进行。现将具体事项通知如下： 一、测试对象及时间第一批",
-      "noticeId": 6129,
+      "noticeId": "jwc-6129",
       "noticeTitle": "【语言文字】关于2025年下半年普通话水平测试时间的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6129.htm",
-      "noticePublishedAt": "2025-10-10"
+      "noticePublishedAt": "2025-10-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-11-08",
@@ -816,10 +1075,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "时间：11月1日 - 2日（周六、周日）。 第三批：丹江口校区，时间：11月8日 - 9日（周六、周日）。 具体测试时间见准考证，请各二级学院通知考生及",
-      "noticeId": 6129,
+      "noticeId": "jwc-6129",
       "noticeTitle": "【语言文字】关于2025年下半年普通话水平测试时间的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6129.htm",
-      "noticePublishedAt": "2025-10-10"
+      "noticePublishedAt": "2025-10-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-10-13",
@@ -829,10 +1090,12 @@
       "category": "选课",
       "relevance": "A",
       "context": "程学习，现就相关事项通知如下： 一、选课时间与对象 1.第一批选课时间：10月13日10:00 —— 10月14日10:00 选课对象：2022 级本科生、",
-      "noticeId": 6127,
+      "noticeId": "jwc-6127",
       "noticeTitle": "【排课选课】关于做好2025-2026-1学期在线通识教育选修课选课工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6127.htm",
-      "noticePublishedAt": "2025-10-09"
+      "noticePublishedAt": "2025-10-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-10-14",
@@ -842,10 +1105,12 @@
       "category": "选课",
       "relevance": "A",
       "context": "： 一、选课时间与对象 1.第一批选课时间：10月13日10:00 —— 10月14日10:00 选课对象：2022 级本科生、 2023 级专科生、 202",
-      "noticeId": 6127,
+      "noticeId": "jwc-6127",
       "noticeTitle": "【排课选课】关于做好2025-2026-1学期在线通识教育选修课选课工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6127.htm",
-      "noticePublishedAt": "2025-10-09"
+      "noticePublishedAt": "2025-10-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-10-15",
@@ -855,10 +1120,12 @@
       "category": "选课",
       "relevance": "A",
       "context": "课未达到规定学分的学生 2.第二批选课时间：10月14日15:00 —— 10月15日18:00 选课对象：2024 级专科生、 2025级专升本学生二、选课",
-      "noticeId": 6127,
+      "noticeId": "jwc-6127",
       "noticeTitle": "【排课选课】关于做好2025-2026-1学期在线通识教育选修课选课工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6127.htm",
-      "noticePublishedAt": "2025-10-09"
+      "noticePublishedAt": "2025-10-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-10-16",
@@ -868,10 +1135,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "纪律， 严禁 “刷课”“替课”“刷考”“替考”等行为。 3. 学习时间：10月16日8:00 —— 12月16日23:004. 考试时间：12月17日8:0",
-      "noticeId": 6127,
+      "noticeId": "jwc-6127",
       "noticeTitle": "【排课选课】关于做好2025-2026-1学期在线通识教育选修课选课工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6127.htm",
-      "noticePublishedAt": "2025-10-09"
+      "noticePublishedAt": "2025-10-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-12-16",
@@ -881,10 +1150,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "课”“刷考”“替考”等行为。 3. 学习时间：10月16日8:00 —— 12月16日23:004. 考试时间：12月17日8:00 —— 12月19日18:",
-      "noticeId": 6127,
+      "noticeId": "jwc-6127",
       "noticeTitle": "【排课选课】关于做好2025-2026-1学期在线通识教育选修课选课工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6127.htm",
-      "noticePublishedAt": "2025-10-09"
+      "noticePublishedAt": "2025-10-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-12-17",
@@ -894,10 +1165,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "时间：10月16日8:00 —— 12月16日23:004. 考试时间：12月17日8:00 —— 12月19日18:00 五、成绩认定所选课程在线学习结束",
-      "noticeId": 6127,
+      "noticeId": "jwc-6127",
       "noticeTitle": "【排课选课】关于做好2025-2026-1学期在线通识教育选修课选课工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6127.htm",
-      "noticePublishedAt": "2025-10-09"
+      "noticePublishedAt": "2025-10-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-12-19",
@@ -907,36 +1180,12 @@
       "category": "选课",
       "relevance": "A",
       "context": "—— 12月16日23:004. 考试时间：12月17日8:00 —— 12月19日18:00 五、成绩认定所选课程在线学习结束后，学生参加考核，具体方式由",
-      "noticeId": 6127,
+      "noticeId": "jwc-6127",
       "noticeTitle": "【排课选课】关于做好2025-2026-1学期在线通识教育选修课选课工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6127.htm",
-      "noticePublishedAt": "2025-10-09"
-    },
-    {
-      "date": "2025-09-23",
-      "year": 2025,
-      "month": 9,
-      "day": 23,
-      "category": "报名",
-      "relevance": "A",
-      "context": "要参加普通话水平测试的学校教职工。 二、报名时间 1.教务管理系统报名：2025年9月23日 —— 9月26日。 2. 财务系统缴费：2025年9月28日——9月3",
-      "noticeId": 6119,
-      "noticeTitle": "【语言文字】关于2025年下半年普通话水平测试报名的通知",
-      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6119.htm",
-      "noticePublishedAt": "2025-09-23"
-    },
-    {
-      "date": "2025-09-26",
-      "year": 2025,
-      "month": 9,
-      "day": 26,
-      "category": "缴费",
-      "relevance": "A",
-      "context": "教职工。 二、报名时间 1.教务管理系统报名：2025年9月23日 —— 9月26日。 2. 财务系统缴费：2025年9月28日——9月30日。 3.所有考",
-      "noticeId": 6119,
-      "noticeTitle": "【语言文字】关于2025年下半年普通话水平测试报名的通知",
-      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6119.htm",
-      "noticePublishedAt": "2025-09-23"
+      "noticePublishedAt": "2025-10-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-09-28",
@@ -946,10 +1195,12 @@
       "category": "缴费",
       "relevance": "A",
       "context": "系统报名：2025年9月23日 —— 9月26日。 2. 财务系统缴费：2025年9月28日——9月30日。 3.所有考生严格按照时间进行报名、缴费， 逾期不予办理",
-      "noticeId": 6119,
+      "noticeId": "jwc-6119",
       "noticeTitle": "【语言文字】关于2025年下半年普通话水平测试报名的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6119.htm",
-      "noticePublishedAt": "2025-09-23"
+      "noticePublishedAt": "2025-09-23",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-09-30",
@@ -959,10 +1210,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "23日 —— 9月26日。 2. 财务系统缴费：2025年9月28日——9月30日。 3.所有考生严格按照时间进行报名、缴费， 逾期不予办理。 三、报名流",
-      "noticeId": 6119,
+      "noticeId": "jwc-6119",
       "noticeTitle": "【语言文字】关于2025年下半年普通话水平测试报名的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6119.htm",
-      "noticePublishedAt": "2025-09-23"
+      "noticePublishedAt": "2025-09-23",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-07-15",
@@ -972,10 +1225,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "详、错误或通信不畅导致的一切后果由考生自行负责。 信息确认或修改时间为 2025年7月15日8:00至 22日22:00。 汉江师范学院教务处 2025年7月14日",
-      "noticeId": 6096,
+      "noticeId": "jwc-6096",
       "noticeTitle": "【专升本】关于专升本预录取考生确认邮寄地址等信息的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6096.htm",
-      "noticePublishedAt": "2025-07-14"
+      "noticePublishedAt": "2025-07-14",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-07-05",
@@ -985,10 +1240,12 @@
       "category": "选课",
       "relevance": "C",
       "context": "应用型本科院校公选课教学改革研究》等 34 个项目获批结题，结题日期为 2025年7月5日，现予公布。 附件 :教学改革研究结题项目汇总表教务处 2025年7月9",
-      "noticeId": 6092,
+      "noticeId": "jwc-6092",
       "noticeTitle": "【教学研究】关于公布2025年教学改革研究结题项目的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6092.htm",
-      "noticePublishedAt": "2025-07-10"
+      "noticePublishedAt": "2025-07-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-08-20",
@@ -998,10 +1255,12 @@
       "category": "公示",
       "relevance": "C",
       "context": "审核及公示无异议后确定申报项目。 （二） 材料报送各二级学院（部门） 于 8月20日前将申请汇总表的 Excel版和PDF版分别报送至教务处邮箱jwc@hj",
-      "noticeId": 6094,
+      "noticeId": "jwc-6094",
       "noticeTitle": "【教学研究】关于2025年教学改革研究项目申报工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6094.htm",
-      "noticePublishedAt": "2025-07-10"
+      "noticePublishedAt": "2025-07-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-18",
@@ -1011,10 +1270,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "21.cn/ ，以下简称“补录报名平台”）进行网络报名。 2.报名时间：6月18日9:00至 6月21日16:00，报名办法见《2025年湖北省普通高校专",
-      "noticeId": 6065,
+      "noticeId": "jwc-6065",
       "noticeTitle": "【专升本】汉江师范学院2025年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6065.htm",
-      "noticePublishedAt": "2025-06-17"
+      "noticePublishedAt": "2025-06-17",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-21",
@@ -1024,10 +1285,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "简称“补录报名平台”）进行网络报名。 2.报名时间：6月18日9:00至 6月21日16:00，报名办法见《2025年湖北省普通高校专升本普通考生补录须知》",
-      "noticeId": 6065,
+      "noticeId": "jwc-6065",
       "noticeTitle": "【专升本】汉江师范学院2025年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6065.htm",
-      "noticePublishedAt": "2025-06-17"
+      "noticePublishedAt": "2025-06-17",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-22",
@@ -1037,10 +1300,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "025年湖北省普通高校专升本普通考生补录须知》（附件）。 3.报名审核：6月22日9:00-6月23日20:00，我校将根据补录招生专业对高职（专科）专业",
-      "noticeId": 6065,
+      "noticeId": "jwc-6065",
       "noticeTitle": "【专升本】汉江师范学院2025年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6065.htm",
-      "noticePublishedAt": "2025-06-17"
+      "noticePublishedAt": "2025-06-17",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-23",
@@ -1050,10 +1315,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "校专升本普通考生补录须知》（附件）。 3.报名审核：6月22日9:00-6月23日20:00，我校将根据补录招生专业对高职（专科）专业的要求及专业相关性规",
-      "noticeId": 6065,
+      "noticeId": "jwc-6065",
       "noticeTitle": "【专升本】汉江师范学院2025年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6065.htm",
-      "noticePublishedAt": "2025-06-17"
+      "noticePublishedAt": "2025-06-17",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-24",
@@ -1063,10 +1330,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "jwc@hjnu.edu.cn）。 3.提交时间：6月22日9：00-6月24日20:00，专业审核通过后即可下载报名申请表，签字后连同其它材料一并提交",
-      "noticeId": 6065,
+      "noticeId": "jwc-6065",
       "noticeTitle": "【专升本】汉江师范学院2025年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6065.htm",
-      "noticePublishedAt": "2025-06-17"
+      "noticePublishedAt": "2025-06-17",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-25",
@@ -1076,10 +1345,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "即可下载报名申请表，签字后连同其它材料一并提交。 五、补录录取录取时间为 6月25日 -28日。录取时分专业按补录计划根据英语成绩从高到低录取，对压计划同分",
-      "noticeId": 6065,
+      "noticeId": "jwc-6065",
       "noticeTitle": "【专升本】汉江师范学院2025年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6065.htm",
-      "noticePublishedAt": "2025-06-17"
+      "noticePublishedAt": "2025-06-17",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-17",
@@ -1089,10 +1360,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "m。 附件：2025年湖北省普通高校专升本普通考生补录须知汉江师范学院 2025年6月17日附件 :2025年湖北省普通高校专升本普通考生补录须知 1.补录报名时间",
-      "noticeId": 6065,
+      "noticeId": "jwc-6065",
       "noticeTitle": "【专升本】汉江师范学院2025年普通专升本补录工作公告",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6065.htm",
-      "noticePublishedAt": "2025-06-17"
+      "noticePublishedAt": "2025-06-17",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-09",
@@ -1102,10 +1375,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "实际制订2024级本科生第二学期转专业工作方案（附件2）并提交会议纪要。 6月9日—11日2 审核方案学校转专业工作领导小组审核各二级学院转专业工作方案，",
-      "noticeId": 6063,
+      "noticeId": "jwc-6063",
       "noticeTitle": "【学籍学位】关于2024级本科生第二学期转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6063.htm",
-      "noticePublishedAt": "2025-06-13"
+      "noticePublishedAt": "2025-06-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-12",
@@ -1115,10 +1390,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "工作领导小组审核各二级学院转专业工作方案，审核后统一在教务处网站上发布。 6月12日—13日3 学生申请申请学生向原专业所在学院提交《转专业申请表》（附件",
-      "noticeId": 6063,
+      "noticeId": "jwc-6063",
       "noticeTitle": "【学籍学位】关于2024级本科生第二学期转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6063.htm",
-      "noticePublishedAt": "2025-06-13"
+      "noticePublishedAt": "2025-06-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-07-12",
@@ -1128,10 +1405,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "或重修课程成绩及格，2024-2025-2学期成绩以期末考试成绩为准）。 7月12日前 7 网上公示各转入学院签署转入学院意见，提交申请表、转专业名单（附件",
-      "noticeId": 6063,
+      "noticeId": "jwc-6063",
       "noticeTitle": "【学籍学位】关于2024级本科生第二学期转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6063.htm",
-      "noticePublishedAt": "2025-06-13"
+      "noticePublishedAt": "2025-06-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-09-10",
@@ -1141,10 +1420,12 @@
       "category": "公示",
       "relevance": "B",
       "context": "文公示无异议后，报学校转专业工作领导小组审核、校长办公会审议，审议后发文 9月10日前三、工作要求 1.学院本科生转专业工作小组应统筹考虑各专业发展，科学决",
-      "noticeId": 6063,
+      "noticeId": "jwc-6063",
       "noticeTitle": "【学籍学位】关于2024级本科生第二学期转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6063.htm",
-      "noticePublishedAt": "2025-06-13"
+      "noticePublishedAt": "2025-06-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-07",
@@ -1154,10 +1435,12 @@
       "category": "公示",
       "relevance": "C",
       "context": "》《新时代生态文明教育与实践》 等 8部教材予以立项，特此公示。 公示期 6月7日—6月10日， 截止时间 6月10日18时。 各单位或个人如有异议，请于",
-      "noticeId": 6055,
+      "noticeId": "jwc-6055",
       "noticeTitle": "【教材建设】汉江师范学院2025年校级规划教材拟立项名单公示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6055.htm",
-      "noticePublishedAt": "2025-06-07"
+      "noticePublishedAt": "2025-06-07",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-10",
@@ -1167,10 +1450,12 @@
       "category": "公示",
       "relevance": "C",
       "context": "态文明教育与实践》 等 8部教材予以立项，特此公示。 公示期 6月7日—6月10日， 截止时间 6月10日18时。 各单位或个人如有异议，请于公示期内以书",
-      "noticeId": 6055,
+      "noticeId": "jwc-6055",
       "noticeTitle": "【教材建设】汉江师范学院2025年校级规划教材拟立项名单公示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6055.htm",
-      "noticePublishedAt": "2025-06-07"
+      "noticePublishedAt": "2025-06-07",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-16",
@@ -1180,10 +1465,12 @@
       "category": "其他",
       "relevance": "C",
       "context": "邮箱 jwc@hjnu.edu.cn ,无需报送纸质材料。申报截止时间为6月16日，逾期不予受理。联系人：朱树立，联系方式：8846139。 附件：1.省",
-      "noticeId": 6041,
+      "noticeId": "jwc-6041",
       "noticeTitle": "【课程建设】关于组织申报2025年湖北高校省级本科课程思政优秀课程的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6041.htm",
-      "noticePublishedAt": "2025-06-03"
+      "noticePublishedAt": "2025-06-03",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-09",
@@ -1193,10 +1480,12 @@
       "category": "考试",
       "relevance": "C",
       "context": "期末课程考核各项工作，现将有关事项通知如下： 一、考核安排课程考核安排在 6月9日-6月29日进行。其中公共课笔试考试安排见下表，专业课课程考核由开课学院",
-      "noticeId": 6031,
+      "noticeId": "jwc-6031",
       "noticeTitle": "【课程考核】关于做好2024-2025学年第二学期期末课程考核工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6031.htm",
-      "noticePublishedAt": "2025-05-29"
+      "noticePublishedAt": "2025-05-29",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-29",
@@ -1206,10 +1495,12 @@
       "category": "考试",
       "relevance": "C",
       "context": "各项工作，现将有关事项通知如下： 一、考核安排课程考核安排在 6月9日-6月29日进行。其中公共课笔试考试安排见下表，专业课课程考核由开课学院具体安排。",
-      "noticeId": 6031,
+      "noticeId": "jwc-6031",
       "noticeTitle": "【课程考核】关于做好2024-2025学年第二学期期末课程考核工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6031.htm",
-      "noticePublishedAt": "2025-05-29"
+      "noticePublishedAt": "2025-05-29",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-10",
@@ -1219,10 +1510,12 @@
       "category": "考试",
       "relevance": "C",
       "context": "当，且试题重复率不得大于10%。近三届试卷重复率小于30%。 完成时间：6月10日前五、试卷印制 1.考试试卷由学校统一印制，各二级学院完成试卷的命题和审",
-      "noticeId": 6031,
+      "noticeId": "jwc-6031",
       "noticeTitle": "【课程考核】关于做好2024-2025学年第二学期期末课程考核工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6031.htm",
-      "noticePublishedAt": "2025-05-29"
+      "noticePublishedAt": "2025-05-29",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-15",
@@ -1232,10 +1525,12 @@
       "category": "考试",
       "relevance": "C",
       "context": "以任何方式泄露试卷内容和考试材料，违者按照学校有关规定处理。 完成时间：6月15日前（考查课需印制试卷的提前联系） 六、考试组织 1.专业课笔试时间一般为",
-      "noticeId": 6031,
+      "noticeId": "jwc-6031",
       "noticeTitle": "【课程考核】关于做好2024-2025学年第二学期期末课程考核工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6031.htm",
-      "noticePublishedAt": "2025-05-29"
+      "noticePublishedAt": "2025-05-29",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-07-10",
@@ -1245,10 +1540,12 @@
       "category": "其他",
       "relevance": "C",
       "context": "成绩，开课学院需及时审核成绩，组织完成课程考核材料归档工作。 完成时间：7月10日前八、质量监控与检查教务处、质量管理与教师发展中心组织开展课程考核材料、",
-      "noticeId": 6031,
+      "noticeId": "jwc-6031",
       "noticeTitle": "【课程考核】关于做好2024-2025学年第二学期期末课程考核工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6031.htm",
-      "noticePublishedAt": "2025-05-29"
+      "noticePublishedAt": "2025-05-29",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-07-12",
@@ -1258,10 +1555,12 @@
       "category": "其他",
       "relevance": "C",
       "context": "中心组织开展课程考核材料、试卷评阅规范性检查，通报相关情况。 完成时间：7月12日相关材料（含纸质版、电子版）请按要求填写，并按照时间节点报送，纸质版需学",
-      "noticeId": 6031,
+      "noticeId": "jwc-6031",
       "noticeTitle": "【课程考核】关于做好2024-2025学年第二学期期末课程考核工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6031.htm",
-      "noticePublishedAt": "2025-05-29"
+      "noticePublishedAt": "2025-05-29",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-03",
@@ -1271,10 +1570,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "（电子版及签字盖章版） （ 5 ）专业汇报 PPT 。 3. 材料打包于 6月3日前提交至教务处。联系人：王晓双，邮箱： jwc@hjnu,edu.cn",
-      "noticeId": 6033,
+      "noticeId": "jwc-6033",
       "noticeTitle": "【学籍学位】关于做好2025年新增学士学位专业授权审核工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6033.htm",
-      "noticePublishedAt": "2025-05-29"
+      "noticePublishedAt": "2025-05-29",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-06-10",
@@ -1284,10 +1585,12 @@
       "category": "公示",
       "relevance": "C",
       "context": "6.拟批准结题项目在全校范围内公示后报请学校批准。 三、工作安排 1.6月10日前，各二级学院完成审核本学院教师结题材料，向教务处提交： （ 1）《20",
-      "noticeId": 6021,
+      "noticeId": "jwc-6021",
       "noticeTitle": "关于做好2025年教学改革研究项目结题验收工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6021.htm",
-      "noticePublishedAt": "2025-05-26"
+      "noticePublishedAt": "2025-05-26",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-05-23",
@@ -1297,10 +1600,12 @@
       "category": "其他",
       "relevance": "A",
       "context": "免修、课程重修/补修； （ 2）课表查询、成绩查询。 三、启用时间 1.2025年5月23日0时—30日24时，教学服务微程序试运行，线上和线下审批双轨进行； 2.",
-      "noticeId": 6010,
+      "noticeId": "jwc-6010",
       "noticeTitle": "关于启用企业微信“教务微服务”的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/6010.htm",
-      "noticePublishedAt": "2025-05-22"
+      "noticePublishedAt": "2025-05-22",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-05-09",
@@ -1310,10 +1615,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "绩 （含总成绩） 查询与大学英语成绩复核相关事项通知如下： 一、成绩查询 5月9日16:00起，考生登录汉江师范学院普通专升本考试报名系统（ http:/",
-      "noticeId": 5982,
+      "noticeId": "jwc-5982",
       "noticeTitle": "关于公布2025年普通专升本考试大学英语科目成绩（含总成绩）的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5982.htm",
-      "noticePublishedAt": "2025-05-08"
+      "noticePublishedAt": "2025-05-08",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-05-11",
@@ -1323,10 +1630,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "评分标准的执行情况不属于核查范围。 1.申请时间：5月9日16:00 -5月11日18:00 。 2 . 申请流程：考生在我校专升本考试报名系统 “成绩查",
-      "noticeId": 5982,
+      "noticeId": "jwc-5982",
       "noticeTitle": "关于公布2025年普通专升本考试大学英语科目成绩（含总成绩）的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5982.htm",
-      "noticePublishedAt": "2025-05-08"
+      "noticePublishedAt": "2025-05-08",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-04-25",
@@ -1336,10 +1645,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "我校 2025年普通专升本考试专业课成绩发布事项通知如下： 一、成绩查询 4月25日9：00起，考生登录汉江师范学院普通专升本考试报名系统（http://z",
-      "noticeId": 5973,
+      "noticeId": "jwc-5973",
       "noticeTitle": "汉江师范学院关于发布2025年普通专升本考试专业课成绩的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5973.htm",
-      "noticePublishedAt": "2025-04-24"
+      "noticePublishedAt": "2025-04-24",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-04-26",
@@ -1349,10 +1660,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "分标准的执行情况不属于核查范围）。 1.申请时间：4月25日9:00 -4月26日12:00 。 2 . 申请流程：考生在我校专升本考试报名系统 “成绩查",
-      "noticeId": 5973,
+      "noticeId": "jwc-5973",
       "noticeTitle": "汉江师范学院关于发布2025年普通专升本考试专业课成绩的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5973.htm",
-      "noticePublishedAt": "2025-04-24"
+      "noticePublishedAt": "2025-04-24",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-04-17",
@@ -1362,10 +1675,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "，现就有关注意事项提醒如下： 一、音乐学专业（考试科目：音乐技能） 1.4月17日下午15:00—18:30，考生需将自备伴奏音频（音频为mp3\\wav常",
-      "noticeId": 5961,
+      "noticeId": "jwc-5961",
       "noticeTitle": "汉江师范学院2025年专升本考试艺体类专业技能考试考生须知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5961.htm",
-      "noticePublishedAt": "2025-04-15"
+      "noticePublishedAt": "2025-04-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-04-18",
@@ -1375,49 +1690,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "场不得以缺工具材料等理由影响考试时间，若违规将被取消考试资格。 2.请于4月18日在12:30到尚艺楼2楼大厅入口检录，统一由工作人员引导进入相应候考区域",
-      "noticeId": 5961,
+      "noticeId": "jwc-5961",
       "noticeTitle": "汉江师范学院2025年专升本考试艺体类专业技能考试考生须知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5961.htm",
-      "noticePublishedAt": "2025-04-15"
-    },
-    {
-      "date": "2025-04-18",
-      "year": 2025,
-      "month": 4,
-      "day": 18,
-      "category": "考试",
-      "relevance": "B",
-      "context": "各位考生 :2025年湖北省普通专升本考试将于4月18日进行，为便于广大考生顺利参加考试，现将有关事项提醒如下： 一、考前准备",
-      "noticeId": 5944,
-      "noticeTitle": "汉江师范学院2025年普通专升本考试考前提醒",
-      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5944.htm",
-      "noticePublishedAt": "2025-04-09"
-    },
-    {
-      "date": "2025-04-11",
-      "year": 2025,
-      "month": 4,
-      "day": 11,
-      "category": "其他",
-      "relevance": "B",
-      "context": "关事项提醒如下： 一、考前准备 1.及时打印准考证。准考证打印开放时间为 4月11日—4月18日。 2.合理安排出行。提前安排好出行时间和交通工具，以免错过",
-      "noticeId": 5944,
-      "noticeTitle": "汉江师范学院2025年普通专升本考试考前提醒",
-      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5944.htm",
-      "noticePublishedAt": "2025-04-09"
-    },
-    {
-      "date": "2025-04-18",
-      "year": 2025,
-      "month": 4,
-      "day": 18,
-      "category": "考试",
-      "relevance": "B",
-      "context": "各位考生：2025年湖北省普通高等学校专升本考试将于 4月18日进行，为端正考风、严肃考纪，共同创造良好的考试环境，现就有关事项告知如下",
-      "noticeId": 5941,
-      "noticeTitle": "2025年湖北省普通高等学校专升本考试考生诚信守法考试告知书",
-      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5941.htm",
-      "noticePublishedAt": "2025-04-09"
+      "noticePublishedAt": "2025-04-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2019-12-01",
@@ -1427,10 +1705,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "现金。 收到定金后，陈某伙同其朋友吴某，找到某大学在读学生齐某来替考。 2019年12月1日上午，齐某来到某中学考场代替周某女儿参加素描考试，在开考一小时后被巡视员",
-      "noticeId": 5937,
+      "noticeId": "jwc-5937",
       "noticeTitle": "2025年湖北省普通高等学校专升本考试考生防诈骗预警提示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5937.htm",
-      "noticePublishedAt": "2025-04-09"
+      "noticePublishedAt": "2025-04-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2022-06-07",
@@ -1440,10 +1720,57 @@
       "category": "考试",
       "relevance": "B",
       "context": "试法终将 “自食恶果”。 二、违禁物品切莫带，网络诈骗须警惕 【案情】 2022年6月7日下午高考数学科目考试结束后，有网民发布数学全国乙卷、全国新高考数学I卷部",
-      "noticeId": 5937,
+      "noticeId": "jwc-5937",
       "noticeTitle": "2025年湖北省普通高等学校专升本考试考生防诈骗预警提示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5937.htm",
-      "noticePublishedAt": "2025-04-09"
+      "noticePublishedAt": "2025-04-09",
+      "source": "jwc",
+      "sourceName": "教务处"
+    },
+    {
+      "date": "2025-04-18",
+      "year": 2025,
+      "month": 4,
+      "day": 18,
+      "category": "考试",
+      "relevance": "B",
+      "context": "各位考生：2025年湖北省普通高等学校专升本考试将于 4月18日进行，为端正考风、严肃考纪，共同创造良好的考试环境，现就有关事项告知如下",
+      "noticeId": "jwc-5941",
+      "noticeTitle": "2025年湖北省普通高等学校专升本考试考生诚信守法考试告知书",
+      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5941.htm",
+      "noticePublishedAt": "2025-04-09",
+      "source": "jwc",
+      "sourceName": "教务处"
+    },
+    {
+      "date": "2025-04-18",
+      "year": 2025,
+      "month": 4,
+      "day": 18,
+      "category": "考试",
+      "relevance": "B",
+      "context": "各位考生 :2025年湖北省普通专升本考试将于4月18日进行，为便于广大考生顺利参加考试，现将有关事项提醒如下： 一、考前准备",
+      "noticeId": "jwc-5944",
+      "noticeTitle": "汉江师范学院2025年普通专升本考试考前提醒",
+      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5944.htm",
+      "noticePublishedAt": "2025-04-09",
+      "source": "jwc",
+      "sourceName": "教务处"
+    },
+    {
+      "date": "2025-04-11",
+      "year": 2025,
+      "month": 4,
+      "day": 11,
+      "category": "其他",
+      "relevance": "B",
+      "context": "关事项提醒如下： 一、考前准备 1.及时打印准考证。准考证打印开放时间为 4月11日—4月18日。 2.合理安排出行。提前安排好出行时间和交通工具，以免错过",
+      "noticeId": "jwc-5944",
+      "noticeTitle": "汉江师范学院2025年普通专升本考试考前提醒",
+      "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5944.htm",
+      "noticePublishedAt": "2025-04-09",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-03-30",
@@ -1453,10 +1780,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "用。普通考生计划报考人数不足的，留待补录解决。 3.招生计划调整情况将于 3月30日前在我校专升本工作网站 https://jwc.hjnu.edu.cn/",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-03-10",
@@ -1466,10 +1795,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "。 2.志愿填报时间 （ 1 ） 普通考生及专项计划考生。 报名时间为 2025年3月10日8：00-3月13日20：00 ， 需按要求如实填写《 2025年湖北省",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-03-13",
@@ -1479,10 +1810,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "） 普通考生及专项计划考生。 报名时间为 2025年3月10日8：00-3月13日20：00 ， 需按要求如实填写《 2025年湖北省普通高等学校专升本报",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-02-17",
@@ -1492,10 +1825,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "份证明等材料。每生限报一所高校的一个专业。 （ 2 ） 退役大学生士兵。 2月17日8：00- 2月21日20：00进行预报名， 3月10日8：00-3月1",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-02-21",
@@ -1505,10 +1840,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "一所高校的一个专业。 （ 2 ） 退役大学生士兵。 2月17日8：00- 2月21日20：00进行预报名， 3月10日8：00-3月13日20：00 进行志",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-02-22",
@@ -1518,10 +1855,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "生士兵志愿。 （ 3） 技能大赛免试考生。 符合技能大赛免试条件的考生于 2月22日8：00-2月26日20：00登录报名平台进行网络报名并提交申请。根据技",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-02-26",
@@ -1531,10 +1870,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "技能大赛免试考生。 符合技能大赛免试条件的考生于 2月22日8：00-2月26日20：00登录报名平台进行网络报名并提交申请。根据技能大赛获奖专升本免试",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-03-14",
@@ -1544,10 +1885,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "考条件。 5 .报名期间可查看分校分专业报名情况，并可修改志愿。 6 .3月14日8：00-3月16日20：00 ， 我校对考生志愿信息进行审核；志愿信息",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-03-16",
@@ -1557,10 +1900,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "期间可查看分校分专业报名情况，并可修改志愿。 6 .3月14日8：00-3月16日20：00 ， 我校对考生志愿信息进行审核；志愿信息审核通过的考生不得更",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-03-17",
@@ -1570,10 +1915,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "核；志愿信息审核通过的考生不得更改志愿信息；志愿信息审核未通过的考生可在 3月17日8：00-20：00 更正志愿一次； 3月18日8：00- 20：00",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-03-18",
@@ -1583,10 +1930,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "信息审核未通过的考生可在 3月17日8：00-20：00 更正志愿一次； 3月18日8：00- 20：00 ， 我校对更正志愿的考生进行专业志愿终审。 7",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-03-19",
@@ -1596,10 +1945,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "对更正志愿的考生进行专业志愿终审。 7 .考生志愿审核通过后， 考生须在 3月19日8：00-3月21日14：00 从报名平台下载打印《 2025年湖北省普",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-03-21",
@@ -1609,10 +1960,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "业志愿终审。 7 .考生志愿审核通过后， 考生须在 3月19日8：00-3月21日14：00 从报名平台下载打印《 2025年湖北省普通高等学校专升本报名",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-03-22",
@@ -1622,10 +1975,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "考生可在我校专升本信息平台缴纳报名费，缴费时间为 3月19日14:00-3月22日18:00， 资格审核通过但未按时缴纳考试报名费的，视为自动放弃报考资格",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-04-18",
@@ -1635,10 +1990,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "一律不再退费。 四、 考试 （一） 考试科目及时间安排专业名称公共课 （ 4月18日9:00—11:00 ） 专业课 （ 4月18日14:00—16:00",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-04-11",
@@ -1648,10 +2005,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "考试科目均无选择题，无判断题，其他题型不限。 （二）考试须知 1.考生于 4月11日 -4月18日登陆我校专升本工作网站，进入 “专升本信息服务平台”，自行",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-04-25",
@@ -1661,10 +2020,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "参照国家教育考试相关法律法规和学生管理规定进行处理。 （三）考试成绩发布 4月25日，按照省教育厅规定时间公布专业课、 职业适应性综合考查成绩并受理复查申请",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-05-12",
@@ -1674,10 +2035,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "业课和总成绩并受理大学英语成绩复查申请， 大学英语成绩复查受理截止时间为 5月12日上午 8 点。 考生可凭身份证号在我校专升本信息服务平台查询成绩， 如对",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2025-07-31",
@@ -1687,10 +2050,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "。 （六）录取后要求已录取的学生不得申请转学或转专业； 应届毕业生考生在 7月31日前未取得专科毕业证书的，取消录取资格； 录取未报到学生空出计划不再补录。",
-      "noticeId": 5909,
+      "noticeId": "jwc-5909",
       "noticeTitle": "汉江师范学院2025年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5909.htm",
-      "noticePublishedAt": "2025-02-28"
+      "noticePublishedAt": "2025-02-28",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-12-17",
@@ -1700,10 +2065,12 @@
       "category": "公示",
       "relevance": "C",
       "context": "级学院审核，教务处、创新创业学院复核，现将复核结果予以公示。 公示期为 2024年12月17日-18日。如有异议，请以实名方式反映至教务处，联系电话：0719-884",
-      "noticeId": 5832,
+      "noticeId": "jwc-5832",
       "noticeTitle": "关于2023年度教学研究绩效名单的公示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5832.htm",
-      "noticePublishedAt": "2024-12-17"
+      "noticePublishedAt": "2024-12-17",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-12-03",
@@ -1713,10 +2080,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "）》文件规定，结合实际制订 2024级本科生转专业工作方案（附件 1 ） 12月3日 —10日2 审核方案学校转专业工作领导小组审核各二级学院转专业工作方案",
-      "noticeId": 5820,
+      "noticeId": "jwc-5820",
       "noticeTitle": "关于2024级本科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5820.htm",
-      "noticePublishedAt": "2024-12-13"
+      "noticePublishedAt": "2024-12-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-12-11",
@@ -1726,36 +2095,42 @@
       "category": "其他",
       "relevance": "B",
       "context": "业工作领导小组审核各二级学院转专业工作方案，审核后统一在教务处网站上发布 12月11日—13日3 学生申请申请学生向原专业所在学院提交《转专业申请表》（附件",
-      "noticeId": 5820,
+      "noticeId": "jwc-5820",
       "noticeTitle": "关于2024级本科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5820.htm",
-      "noticePublishedAt": "2024-12-13"
+      "noticePublishedAt": "2024-12-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
-      "date": "2024-01-20",
-      "year": 2024,
+      "date": "2025-01-20",
+      "year": 2025,
       "month": 1,
       "day": 20,
       "category": "公示",
       "relevance": "B",
       "context": "3日6 资格复审各转出学院核查学生本学期修读课程成绩， 复审学生申请条件 1月20日前 7 网上公示各转入学院签署转入学院意见， 提交申请表及转专业名单报工",
-      "noticeId": 5820,
+      "noticeId": "jwc-5820",
       "noticeTitle": "关于2024级本科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5820.htm",
-      "noticePublishedAt": "2024-12-13"
+      "noticePublishedAt": "2024-12-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
-      "date": "2024-02-21",
-      "year": 2024,
+      "date": "2025-02-21",
+      "year": 2025,
       "month": 2,
       "day": 21,
       "category": "公示",
       "relevance": "B",
       "context": "公示无异议后，报学校转专业工作领导小组审核、校长办公会审议， 审议后发文 2月21日前三、工作要求 1.学院本科生转专业工作小组应统筹考虑各专业发展，科学决",
-      "noticeId": 5820,
+      "noticeId": "jwc-5820",
       "noticeTitle": "关于2024级本科生转专业的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5820.htm",
-      "noticePublishedAt": "2024-12-13"
+      "noticePublishedAt": "2024-12-13",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-12-14",
@@ -1765,10 +2140,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "亲爱的同学们：2024年下半年全国大学英语四、六级考试将于12月14日（周六）举行，为确保考试平稳顺利，请注意以下事项：1.抓紧时间打印准考证",
-      "noticeId": 5815,
+      "noticeId": "jwc-5815",
       "noticeTitle": "2024年下半年全国大学英语四六级考试考前重要提示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5815.htm",
-      "noticePublishedAt": "2024-12-12"
+      "noticePublishedAt": "2024-12-12",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-10-16",
@@ -1778,10 +2155,12 @@
       "category": "选课",
       "relevance": "A",
       "context": "史》《新中国史》《改革开放史》《社会主义发展史》课程。 第一批选课时间：2024年10月16日10:00 至 10月17日10:00 选课对象：2021 级本科生、2",
-      "noticeId": 5784,
+      "noticeId": "jwc-5784",
       "noticeTitle": "关于选修2024-2025-1 学期在线通识选修课的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5784.htm",
-      "noticePublishedAt": "2024-10-15"
+      "noticePublishedAt": "2024-10-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-10-17",
@@ -1791,10 +2170,12 @@
       "category": "选课",
       "relevance": "A",
       "context": "主义发展史》课程。 第一批选课时间：2024年10月16日10:00 至 10月17日10:00 选课对象：2021 级本科生、2022 级专科生、2023",
-      "noticeId": 5784,
+      "noticeId": "jwc-5784",
       "noticeTitle": "关于选修2024-2025-1 学期在线通识选修课的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5784.htm",
-      "noticePublishedAt": "2024-10-15"
+      "noticePublishedAt": "2024-10-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-10-18",
@@ -1804,10 +2185,12 @@
       "category": "选课",
       "relevance": "A",
       "context": "未达到规定学分的学生第二批选课时间：2024年10月17日15:00 至10月18日18:00 选课对象：2023 级专科生、2024 级专升本学生选课方式",
-      "noticeId": 5784,
+      "noticeId": "jwc-5784",
       "noticeTitle": "关于选修2024-2025-1 学期在线通识选修课的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5784.htm",
-      "noticePublishedAt": "2024-10-15"
+      "noticePublishedAt": "2024-10-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-10-19",
@@ -1817,10 +2200,12 @@
       "category": "考试",
       "relevance": "C",
       "context": "课程，学习完成后统一参加考核，具体方式由责任教师通知。 （五）学习时间：2024年10月19日8:00—2024年12月28日23:00。考试时间：2024年12月2",
-      "noticeId": 5784,
+      "noticeId": "jwc-5784",
       "noticeTitle": "关于选修2024-2025-1 学期在线通识选修课的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5784.htm",
-      "noticePublishedAt": "2024-10-15"
+      "noticePublishedAt": "2024-10-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-12-28",
@@ -1830,10 +2215,12 @@
       "category": "考试",
       "relevance": "C",
       "context": "体方式由责任教师通知。 （五）学习时间：2024年10月19日8:00—2024年12月28日23:00。考试时间：2024年12月29日8:00—2024年12月3",
-      "noticeId": 5784,
+      "noticeId": "jwc-5784",
       "noticeTitle": "关于选修2024-2025-1 学期在线通识选修课的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5784.htm",
-      "noticePublishedAt": "2024-10-15"
+      "noticePublishedAt": "2024-10-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-12-29",
@@ -1843,10 +2230,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "24年10月19日8:00—2024年12月28日23:00。考试时间：2024年12月29日8:00—2024年12月31日18:00。 四、成绩认定所选课程在线学",
-      "noticeId": 5784,
+      "noticeId": "jwc-5784",
       "noticeTitle": "关于选修2024-2025-1 学期在线通识选修课的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5784.htm",
-      "noticePublishedAt": "2024-10-15"
+      "noticePublishedAt": "2024-10-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-12-31",
@@ -1856,10 +2245,42 @@
       "category": "选课",
       "relevance": "A",
       "context": "24年12月28日23:00。考试时间：2024年12月29日8:00—2024年12月31日18:00。 四、成绩认定所选课程在线学习结束后，学生参加考核，考核合格",
-      "noticeId": 5784,
+      "noticeId": "jwc-5784",
       "noticeTitle": "关于选修2024-2025-1 学期在线通识选修课的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5784.htm",
-      "noticePublishedAt": "2024-10-15"
+      "noticePublishedAt": "2024-10-15",
+      "source": "jwc",
+      "sourceName": "教务处"
+    },
+    {
+      "date": "2024-10-14",
+      "year": 2024,
+      "month": 10,
+      "day": 14,
+      "category": "其他",
+      "relevance": "C",
+      "context": "良行为记录（提供网页查询截图加盖公章）。 三、获取采购文件 1. 时间：2024年10月14日至 2024年10月21日。 2. 方式：网上获取。 3. 地点：登陆教",
+      "noticeId": "itsc-1136",
+      "noticeTitle": "汉江师范学院2024年数字化校园使用手册采购公告",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1136.htm",
+      "noticePublishedAt": "2024-10-14",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
+    },
+    {
+      "date": "2024-10-21",
+      "year": 2024,
+      "month": 10,
+      "day": 21,
+      "category": "其他",
+      "relevance": "C",
+      "context": "登陆教育数字化建设与管理处网站，下载询价单。 四、响应文件提交截止时间：2024年10月21日15 点 00分地点：汉江师范学院图书馆东区二楼教育数字化建设与管理处办",
+      "noticeId": "itsc-1136",
+      "noticeTitle": "汉江师范学院2024年数字化校园使用手册采购公告",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1136.htm",
+      "noticePublishedAt": "2024-10-14",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
     },
     {
       "date": "2024-10-26",
@@ -1869,10 +2290,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "根据湖北省测试中心和学校工作安排 ,2024年下半年普通话水平测试将于 10月26日开始，后续分期分批进行。现将具体事项通知如下： 一、测试对象及时间第一批",
-      "noticeId": 5781,
+      "noticeId": "jwc-5781",
       "noticeTitle": "关于2024年下半年普通话水平测试时间的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5781.htm",
-      "noticePublishedAt": "2024-10-08"
+      "noticePublishedAt": "2024-10-08",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-11-09",
@@ -1882,10 +2305,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "体育学院、数学与计算机科学学院、物理与电子工程学院及其他考生 , 时间：11月9日-10（周六、周日）。 具体测试时间见准考证，请各二级学院通知考生及报考",
-      "noticeId": 5781,
+      "noticeId": "jwc-5781",
       "noticeTitle": "关于2024年下半年普通话水平测试时间的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5781.htm",
-      "noticePublishedAt": "2024-10-08"
+      "noticePublishedAt": "2024-10-08",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-09-19",
@@ -1895,10 +2320,12 @@
       "category": "公示",
       "relevance": "B",
       "context": "请、学校审核，现对 2024 级专科学生转专业名单予以公示。 公示时间为 9月19日—9月21日。如有异议，请向教务处反馈，联系人：朱老师，电话：88461",
-      "noticeId": 5773,
+      "noticeId": "jwc-5773",
       "noticeTitle": "关于2024级专科学生转专业名单的公示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5773.htm",
-      "noticePublishedAt": "2024-09-19"
+      "noticePublishedAt": "2024-09-19",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-09-30",
@@ -1908,10 +2335,12 @@
       "category": "报名",
       "relevance": "C",
       "context": "报名，也可通过央广网全媒体平台获取活动相关信息。 3. 报名截止时间：9月30日。 三、诵读内容 1. 我国古代、近现代和当代有社会影响力和典范价值的，",
-      "noticeId": 5770,
+      "noticeId": "jwc-5770",
       "noticeTitle": "关于组织我校师生参加“知音湖北遇见经典”中华经典诵读大会的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5770.htm",
-      "noticePublishedAt": "2024-09-12"
+      "noticePublishedAt": "2024-09-12",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-12-14",
@@ -1921,10 +2350,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "SET ）和笔试（以下简称 CET ）将分别于 11月23 至 24日和 12月14日举行。为确保我校网上报名工作顺利完成，现将有关事项通知如下： 一、开考科",
-      "noticeId": 5766,
+      "noticeId": "jwc-5766",
       "noticeTitle": "关于做好2024年下半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5766.htm",
-      "noticePublishedAt": "2024-09-10"
+      "noticePublishedAt": "2024-09-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-11-23",
@@ -1934,10 +2365,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "T-SET 科目和时间英语四级口语考试（ CET-SET4 ）考试时间为 11月23日（ F243 次），英语六级口语考试（ CET-SET6 ）考试时间为",
-      "noticeId": 5766,
+      "noticeId": "jwc-5766",
       "noticeTitle": "关于做好2024年下半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5766.htm",
-      "noticePublishedAt": "2024-09-10"
+      "noticePublishedAt": "2024-09-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-11-24",
@@ -1947,10 +2380,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "日（ F243 次），英语六级口语考试（ CET-SET6 ）考试时间为 11月24日（ S244 次）。具体场次视我校报名情况另行安排。 （二） CET 科",
-      "noticeId": 5766,
+      "noticeId": "jwc-5766",
       "noticeTitle": "关于做好2024年下半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5766.htm",
-      "noticePublishedAt": "2024-09-10"
+      "noticePublishedAt": "2024-09-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-09-11",
@@ -1960,10 +2395,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "对 (4) 报名缴费 （三）网上报名时间安排 1. 账号注册、信息校对：9月11日18:00-9月13日10:00 （此阶段只能核对信息，不能报名、缴费）",
-      "noticeId": 5766,
+      "noticeId": "jwc-5766",
       "noticeTitle": "关于做好2024年下半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5766.htm",
-      "noticePublishedAt": "2024-09-10"
+      "noticePublishedAt": "2024-09-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-09-13",
@@ -1973,10 +2410,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "（三）网上报名时间安排 1. 账号注册、信息校对：9月11日18:00-9月13日10:00 （此阶段只能核对信息，不能报名、缴费） 2. 网上报名：9月",
-      "noticeId": 5766,
+      "noticeId": "jwc-5766",
       "noticeTitle": "关于做好2024年下半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5766.htm",
-      "noticePublishedAt": "2024-09-10"
+      "noticePublishedAt": "2024-09-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-09-23",
@@ -1986,10 +2425,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "只能核对信息，不能报名、缴费） 2. 网上报名：9月13日10:00 — 9月23日17:00 （此阶段可核对信息、报名和缴费，网上缴费截止时间为 9月24",
-      "noticeId": 5766,
+      "noticeId": "jwc-5766",
       "noticeTitle": "关于做好2024年下半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5766.htm",
-      "noticePublishedAt": "2024-09-10"
+      "noticePublishedAt": "2024-09-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-09-24",
@@ -1999,10 +2440,12 @@
       "category": "缴费",
       "relevance": "A",
       "context": "9月23日17:00 （此阶段可核对信息、报名和缴费，网上缴费截止时间为 9月24日17:00 ），口语考试报名与笔试报名同步进行。 3. 准考证打印：口试",
-      "noticeId": 5766,
+      "noticeId": "jwc-5766",
       "noticeTitle": "关于做好2024年下半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5766.htm",
-      "noticePublishedAt": "2024-09-10"
+      "noticePublishedAt": "2024-09-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-11-12",
@@ -2012,10 +2455,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "），口语考试报名与笔试报名同步进行。 3. 准考证打印：口试准考证打印 11月12日开始，笔试准考证打印 12月6日开始，考生登录报名系统自行完成准考证打印",
-      "noticeId": 5766,
+      "noticeId": "jwc-5766",
       "noticeTitle": "关于做好2024年下半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5766.htm",
-      "noticePublishedAt": "2024-09-10"
+      "noticePublishedAt": "2024-09-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-12-06",
@@ -2025,10 +2470,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "行。 3. 准考证打印：口试准考证打印 11月12日开始，笔试准考证打印 12月6日开始，考生登录报名系统自行完成准考证打印。 四、报名费用按照湖北省物价局",
-      "noticeId": 5766,
+      "noticeId": "jwc-5766",
       "noticeTitle": "关于做好2024年下半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5766.htm",
-      "noticePublishedAt": "2024-09-10"
+      "noticePublishedAt": "2024-09-10",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-07-25",
@@ -2038,10 +2485,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "详、错误或通信不畅导致的一切后果由考生自行负责。 信息确认或修改时间为 2024年7月25日16:00 至 27日22:00 。 汉江师范学院教务处 2024年7月",
-      "noticeId": 5750,
+      "noticeId": "jwc-5750",
       "noticeTitle": "关于专升本预录取考生确认邮寄地址等信息的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5750.htm",
-      "noticePublishedAt": "2024-07-25"
+      "noticePublishedAt": "2024-07-25",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-04-30",
@@ -2051,10 +2500,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "各位考生：2024年湖北省普通高等学校专升本考试将于 4月30日进行，为进一步端正考风，严肃考纪，共同创造良好的考试环境，确保考试安全、",
-      "noticeId": 5684,
+      "noticeId": "jwc-5684",
       "noticeTitle": "2024年湖北省普通高等学校专升本考试考生诚信守法考试告知书",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5684.htm",
-      "noticePublishedAt": "2024-04-22"
+      "noticePublishedAt": "2024-04-22",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-04-30",
@@ -2064,10 +2515,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "各位考生 :2024年湖北省普通专升本考试将于 4月30日进行，为保障广大考生顺利参加考试，现将有关事项提示如下： 一、考前准备",
-      "noticeId": 5688,
+      "noticeId": "jwc-5688",
       "noticeTitle": "汉江师范学院2024年普通专升本考试考前提醒",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5688.htm",
-      "noticePublishedAt": "2024-04-22"
+      "noticePublishedAt": "2024-04-22",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-04-23",
@@ -2077,10 +2530,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "事项提示如下： 一、考前准备 1. 及时打印准考证。准考证打印开放时间：4月23日— 4月30日（在汉江师范学院专升本报名平台打印）。 2. 合理安排出行",
-      "noticeId": 5688,
+      "noticeId": "jwc-5688",
       "noticeTitle": "汉江师范学院2024年普通专升本考试考前提醒",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5688.htm",
-      "noticePublishedAt": "2024-04-22"
+      "noticePublishedAt": "2024-04-22",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-22",
@@ -2090,10 +2545,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "为每天 8：00-20：00 。 2. 普通考生及专项计划考生报名时间为 3月22日8:00-3月25日18:00 。退役大学生士兵（含申请免试入学）报名分",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-25",
@@ -2103,10 +2560,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "：00 。 2. 普通考生及专项计划考生报名时间为 3月22日8:00-3月25日18:00 。退役大学生士兵（含申请免试入学）报名分两个阶段：第一阶段，",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-06",
@@ -2116,10 +2575,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "18:00 。退役大学生士兵（含申请免试入学）报名分两个阶段：第一阶段， 3月6日8:00-3月11日18:00 进行预报名；第二阶段， 3月22日8:0",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-11",
@@ -2129,10 +2590,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "学生士兵（含申请免试入学）报名分两个阶段：第一阶段， 3月6日8:00-3月11日18:00 进行预报名；第二阶段， 3月22日8:00-3月25日18:",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-20",
@@ -2142,10 +2605,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "。技能大赛免试考生报名时间为 3月6日8：00-3月11日18:00 ， 3月20日8:00-3月21日18:00 查阅审核结果，未通过审核的可在 3月22",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-21",
@@ -2155,10 +2620,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "时间为 3月6日8：00-3月11日18:00 ， 3月20日8:00-3月21日18:00 查阅审核结果，未通过审核的可在 3月22日 -25日以其他类",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-26",
@@ -2168,10 +2635,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "报考条件。 5. 报名期间可查看分校分专业报名情况，并可修改志愿。 6.3月26日（ 8:00-18:00 ），我校对考生志愿信息进行审核；志愿信息审核通",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-27",
@@ -2181,10 +2650,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "核；志愿信息审核通过的考生不得更改志愿信息；志愿信息审核未通过的考生可在 3月27日（ 8:00-17:00 ）更正志愿一次； 3月28日（ 8:00-17",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-30",
@@ -2194,10 +2665,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "生进行专业志愿终审。 7. 考生志愿审核通过后，于 3月26日8:00-3月30日14:00 从报名平台下载打印《 2024年湖北省普通高等学校专升本报名",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-04-03",
@@ -2207,10 +2680,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "师。 （二）资格审核 1. 审核时间 2024年3月30日14:00 — 4月3日14:002. 审核流程考生在湖北普通专升本统一报名平台报名成功后，登录",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-04-30",
@@ -2220,10 +2695,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "缴纳报名考试费。 四、 考试 (一)考试科目及时间安排专业名称公共课 （ 4月30日9:00 — 11:00 ） 专业课 （ 4月30日14:00 — 16",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-04-23",
@@ -2233,10 +2710,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "考试科目无选择题、无判断题，其他题型不限。 （二）考试须知 1. 考生于 4月23日 -4月30日登陆我校专升本工作网站，进入“专升本信息服务平台”，自行打",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-05-20",
@@ -2246,10 +2725,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "参照国家教育考试相关法律法规和学生管理规定进行处理。 （三）考试成绩发布 5月20日，按照省教育厅规定时间公布专业课、综合考查成绩， 5月25日，按照省教育",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-05-25",
@@ -2259,10 +2740,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "考试成绩发布 5月20日，按照省教育厅规定时间公布专业课、综合考查成绩， 5月25日，按照省教育厅规定时间公布英语、专业课和总成绩，考生凭身份证号查询成绩。",
-      "noticeId": 5660,
+      "noticeId": "jwc-5660",
       "noticeTitle": "汉江师范学院2024年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5660.htm",
-      "noticePublishedAt": "2024-03-16"
+      "noticePublishedAt": "2024-03-16",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-06-15",
@@ -2272,10 +2755,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "称CET-SET）和笔试（以下简称CET）将分别于5月18 至 19日和 6月15日举行。为确保我校网上报名工作顺利完成，现将有关事项通知如下： 一、开考科",
-      "noticeId": 5651,
+      "noticeId": "jwc-5651",
       "noticeTitle": "关于做好2024年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5651.htm",
-      "noticePublishedAt": "2024-03-15"
+      "noticePublishedAt": "2024-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-05-18",
@@ -2285,10 +2770,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "ET-SET 科目和时间英语四级口语考试（ CET-SET4）考试时间为5月18日（F241次），英语六级口语考试（CET-SET6）考试时间为5月19日",
-      "noticeId": 5651,
+      "noticeId": "jwc-5651",
       "noticeTitle": "关于做好2024年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5651.htm",
-      "noticePublishedAt": "2024-03-15"
+      "noticePublishedAt": "2024-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-05-19",
@@ -2298,10 +2785,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "5月18日（F241次），英语六级口语考试（CET-SET6）考试时间为5月19日（ S242次）。具体场次视我校报名情况另行安排。 （二） CET科目和",
-      "noticeId": 5651,
+      "noticeId": "jwc-5651",
       "noticeTitle": "关于做好2024年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5651.htm",
-      "noticePublishedAt": "2024-03-15"
+      "noticePublishedAt": "2024-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-18",
@@ -2311,10 +2800,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "核对 (4) 报名缴费 （三）网上报名时间安排 1.账号注册、信息校对：3月18日18:00-3月20日11:00（此阶段只能核对信息，不能报名、缴费）",
-      "noticeId": 5651,
+      "noticeId": "jwc-5651",
       "noticeTitle": "关于做好2024年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5651.htm",
-      "noticePublishedAt": "2024-03-15"
+      "noticePublishedAt": "2024-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-20",
@@ -2324,10 +2815,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "（三）网上报名时间安排 1.账号注册、信息校对：3月18日18:00-3月20日11:00（此阶段只能核对信息，不能报名、缴费） 2.网上报名：3月20",
-      "noticeId": 5651,
+      "noticeId": "jwc-5651",
       "noticeTitle": "关于做好2024年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5651.htm",
-      "noticePublishedAt": "2024-03-15"
+      "noticePublishedAt": "2024-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-28",
@@ -2337,10 +2830,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "段只能核对信息，不能报名、缴费） 2.网上报名：3月20日11:00 —3月28日17:00 （此阶段可核对信息、报名和缴费，网上缴费截止时间为 3月29",
-      "noticeId": 5651,
+      "noticeId": "jwc-5651",
       "noticeTitle": "关于做好2024年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5651.htm",
-      "noticePublishedAt": "2024-03-15"
+      "noticePublishedAt": "2024-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-29",
@@ -2350,10 +2845,12 @@
       "category": "缴费",
       "relevance": "A",
       "context": "3月28日17:00 （此阶段可核对信息、报名和缴费，网上缴费截止时间为 3月29日17:00 ），口语考试报名与笔试报名同步进行。 3.准考证打印：口试准",
-      "noticeId": 5651,
+      "noticeId": "jwc-5651",
       "noticeTitle": "关于做好2024年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5651.htm",
-      "noticePublishedAt": "2024-03-15"
+      "noticePublishedAt": "2024-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-05-13",
@@ -2363,10 +2860,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "0 ），口语考试报名与笔试报名同步进行。 3.准考证打印：口试准考证打印5月13日开始，笔试准考证打印6月7日开始，考生登录报名系统自行完成准考证打印。",
-      "noticeId": 5651,
+      "noticeId": "jwc-5651",
       "noticeTitle": "关于做好2024年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5651.htm",
-      "noticePublishedAt": "2024-03-15"
+      "noticePublishedAt": "2024-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-06-07",
@@ -2376,10 +2875,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "同步进行。 3.准考证打印：口试准考证打印5月13日开始，笔试准考证打印6月7日开始，考生登录报名系统自行完成准考证打印。 四、报名费用按照湖北省物价局",
-      "noticeId": 5651,
+      "noticeId": "jwc-5651",
       "noticeTitle": "关于做好2024年上半年全国大学英语四六级考试报名工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5651.htm",
-      "noticePublishedAt": "2024-03-15"
+      "noticePublishedAt": "2024-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-02-28",
@@ -2389,10 +2890,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "丹江校区管委会统筹安排）。 三、补考报名 1. 补考信息核对及确认时间：2月28日8:00-3月1日24:00 。 2. 补考报名步骤：登录教务系统→点击",
-      "noticeId": 5642,
+      "noticeId": "jwc-5642",
       "noticeTitle": "关于做好2023-2024-2学期开学补考工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5642.htm",
-      "noticePublishedAt": "2024-02-23"
+      "noticePublishedAt": "2024-02-23",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-01",
@@ -2402,10 +2905,12 @@
       "category": "报名",
       "relevance": "A",
       "context": "排）。 三、补考报名 1. 补考信息核对及确认时间：2月28日8:00-3月1日24:00 。 2. 补考报名步骤：登录教务系统→点击报名申请→补考确认",
-      "noticeId": 5642,
+      "noticeId": "jwc-5642",
       "noticeTitle": "关于做好2023-2024-2学期开学补考工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5642.htm",
-      "noticePublishedAt": "2024-02-23"
+      "noticePublishedAt": "2024-02-23",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-06",
@@ -2415,10 +2920,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "他课程由开课学院负责组织。 五、时间安排 1. 专业课补考：3月2日 -3月6日进行，具体安排以各学院通知为准。 2. 公共课补考：3月7日进行，考试科",
-      "noticeId": 5642,
+      "noticeId": "jwc-5642",
       "noticeTitle": "关于做好2023-2024-2学期开学补考工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5642.htm",
-      "noticePublishedAt": "2024-02-23"
+      "noticePublishedAt": "2024-02-23",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-07",
@@ -2428,10 +2935,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "3月2日 -3月6日进行，具体安排以各学院通知为准。 2. 公共课补考：3月7日进行，考试科目、考场安排由教务处另行发布。 3. 补考成绩录入：各二级学",
-      "noticeId": 5642,
+      "noticeId": "jwc-5642",
       "noticeTitle": "关于做好2023-2024-2学期开学补考工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5642.htm",
-      "noticePublishedAt": "2024-02-23"
+      "noticePublishedAt": "2024-02-23",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-03-15",
@@ -2441,10 +2950,12 @@
       "category": "考试",
       "relevance": "A",
       "context": "行，考试科目、考场安排由教务处另行发布。 3. 补考成绩录入：各二级学院 3月15日前完成补考成绩录入并及时提交审核。 六、相关要求 1. 各学院务必通知到",
-      "noticeId": 5642,
+      "noticeId": "jwc-5642",
       "noticeTitle": "关于做好2023-2024-2学期开学补考工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5642.htm",
-      "noticePublishedAt": "2024-02-23"
+      "noticePublishedAt": "2024-02-23",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-02-27",
@@ -2454,10 +2965,12 @@
       "category": "开学",
       "relevance": "A",
       "context": "各二级学院、相关部门： 根据学校安排，2023-2024-2学期于2024年2月27日（星期二）正式上课，为保障正常教学秩序，现将相关事项通知如下： 一、开学",
-      "noticeId": 5643,
+      "noticeId": "jwc-5643",
       "noticeTitle": "关于做好2023-2024-2学期开学教学工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5643.htm",
-      "noticePublishedAt": "2024-02-22"
+      "noticePublishedAt": "2024-02-22",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-02-25",
@@ -2467,10 +2980,12 @@
       "category": "开学",
       "relevance": "A",
       "context": "特殊原因无法正常返校情况，及时向人事处、学工处报告。 2.课表检查与通知 2月25日前打印好课表，通知到所有专兼职教师、辅导员和上课班级，注意周六、周日和晚",
-      "noticeId": 5643,
+      "noticeId": "jwc-5643",
       "noticeTitle": "关于做好2023-2024-2学期开学教学工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5643.htm",
-      "noticePublishedAt": "2024-02-22"
+      "noticePublishedAt": "2024-02-22",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2024-02-29",
@@ -2480,10 +2995,12 @@
       "category": "其他",
       "relevance": "A",
       "context": "6.成绩查询与复核通知学生进入教务系统查询本人成绩，对成绩有异议的学生于2月29日18:00前提出复查申请。复查程序为：学生填写《汉江师范学院成绩复查申请",
-      "noticeId": 5643,
+      "noticeId": "jwc-5643",
       "noticeTitle": "关于做好2023-2024-2学期开学教学工作的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5643.htm",
-      "noticePublishedAt": "2024-02-22"
+      "noticePublishedAt": "2024-02-22",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-12-12",
@@ -2493,10 +3010,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "算机科学学院、物理与电子工程学院、历史文化与旅游学院二、 工作安排 1.12月12日-13日，有意愿转入以上三个学院的学生向原专业所在二级学院提交《转专业申",
-      "noticeId": 5600,
+      "noticeId": "jwc-5600",
       "noticeTitle": "关于《2023级本科生转专业》的补充通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5600.htm",
-      "noticePublishedAt": "2023-12-12"
+      "noticePublishedAt": "2023-12-12",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-12-14",
@@ -2506,10 +3025,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "所在二级学院提交《转专业申请表》，转出学院签署意见后汇总报教务处； 2.12月14日-15日，教务处汇总审核后的转专业申请材料递交转入学院，转入学院按照调整",
-      "noticeId": 5600,
+      "noticeId": "jwc-5600",
       "noticeTitle": "关于《2023级本科生转专业》的补充通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5600.htm",
-      "noticePublishedAt": "2023-12-12"
+      "noticePublishedAt": "2023-12-12",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-07-31",
@@ -2519,10 +3040,12 @@
       "category": "公示",
       "relevance": "C",
       "context": "于公示结束之日前以直接送达方式提交教务处。 联系人：朱老师。 公示时间：2023年7月31日 -8月4日。 附件：1.2021年度教学奖励名单 2.2022年度教学",
-      "noticeId": 5348,
+      "noticeId": "jwc-5348",
       "noticeTitle": "关于教学奖励名单的公示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5348.htm",
-      "noticePublishedAt": "2023-07-31"
+      "noticePublishedAt": "2023-07-31",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-08-04",
@@ -2532,10 +3055,12 @@
       "category": "公示",
       "relevance": "C",
       "context": "达方式提交教务处。 联系人：朱老师。 公示时间：2023年7月31日 -8月4日。 附件：1.2021年度教学奖励名单 2.2022年度教学奖励名单 3",
-      "noticeId": 5348,
+      "noticeId": "jwc-5348",
       "noticeTitle": "关于教学奖励名单的公示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5348.htm",
-      "noticePublishedAt": "2023-07-31"
+      "noticePublishedAt": "2023-07-31",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-07-27",
@@ -2545,10 +3070,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "详、错误或通信不畅导致的一切后果由考生自行负责。 信息确认或修改时间为 2023年7月27日12:00 至 31日22:00 。 汉江师范学院教务处 2023年7月",
-      "noticeId": 5346,
+      "noticeId": "jwc-5346",
       "noticeTitle": "关于专升本预录取考生确认联系地址等信息的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5346.htm",
-      "noticePublishedAt": "2023-07-27"
+      "noticePublishedAt": "2023-07-27",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-07-27",
@@ -2558,10 +3085,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "http://zsb.e21.cn/ ，以下简称“补录报名平台”）将于 7月27日上午 9:00 开放，补录网络报名截止时间为 7月31日16:00 。我",
-      "noticeId": 5338,
+      "noticeId": "jwc-5338",
       "noticeTitle": "2023年湖北省专升本补录工作启动信息提示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5338.htm",
-      "noticePublishedAt": "2023-07-21"
+      "noticePublishedAt": "2023-07-21",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-07-31",
@@ -2571,10 +3100,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "报名平台”）将于 7月27日上午 9:00 开放，补录网络报名截止时间为 7月31日16:00 。我校今年无补录，其他高校补录工作公告将于 7月24日前在相",
-      "noticeId": 5338,
+      "noticeId": "jwc-5338",
       "noticeTitle": "2023年湖北省专升本补录工作启动信息提示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5338.htm",
-      "noticePublishedAt": "2023-07-21"
+      "noticePublishedAt": "2023-07-21",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-07-24",
@@ -2584,10 +3115,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "时间为 7月31日16:00 。我校今年无补录，其他高校补录工作公告将于 7月24日前在相关高校工作网站发布，请考生注意查阅相关要求（补录报名平台开放后将同",
-      "noticeId": 5338,
+      "noticeId": "jwc-5338",
       "noticeTitle": "2023年湖北省专升本补录工作启动信息提示",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5338.htm",
-      "noticePublishedAt": "2023-07-21"
+      "noticePublishedAt": "2023-07-21",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-05-20",
@@ -2597,10 +3130,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "考试成绩复核申请表》（附件）并打印签字拍照，连同身份证正反面复印件照片在 5月20日12：00 前发送至汉江师范学院教务处邮箱： jwc@hjnu.edu.",
-      "noticeId": 5306,
+      "noticeId": "jwc-5306",
       "noticeTitle": "关于公布2023年普通专升本考试成绩的通知",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5306.htm",
-      "noticePublishedAt": "2023-05-18"
+      "noticePublishedAt": "2023-05-18",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-05-07",
@@ -2610,10 +3145,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "各位考生 :2023年湖北省普通专升本考试将于 5月7日进行，请注意： 一、准考证打印开放时间：4月29日— 5月7日。 二、提",
-      "noticeId": 5299,
+      "noticeId": "jwc-5299",
       "noticeTitle": "汉江师范学院2023年普通专升本考试提醒",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5299.htm",
-      "noticePublishedAt": "2023-04-25"
+      "noticePublishedAt": "2023-04-25",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-04-29",
@@ -2623,10 +3160,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "北省普通专升本考试将于 5月7日进行，请注意： 一、准考证打印开放时间：4月29日— 5月7日。 二、提前准备好二代身份证、准考证，认真查阅准考证上考试时",
-      "noticeId": 5299,
+      "noticeId": "jwc-5299",
       "noticeTitle": "汉江师范学院2023年普通专升本考试提醒",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5299.htm",
-      "noticePublishedAt": "2023-04-25"
+      "noticePublishedAt": "2023-04-25",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-05-06",
@@ -2636,10 +3175,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "考试地点和考生注意事项。 三、提前查看考场，熟悉考试环境，查看考场时间：5月6日（周六）下午 14:00 — 17:00 。 四、考生凭准考证、身份证进",
-      "noticeId": 5299,
+      "noticeId": "jwc-5299",
       "noticeTitle": "汉江师范学院2023年普通专升本考试提醒",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5299.htm",
-      "noticePublishedAt": "2023-04-25"
+      "noticePublishedAt": "2023-04-25",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-04-25",
@@ -2649,10 +3190,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "生凭准考证、身份证进校。 五、考生应遵规守纪，诚信应考。 汉江师范学院 2023年4月25日湖北省 2023年普通专升本考试汉江师范学院考点路线图",
-      "noticeId": 5299,
+      "noticeId": "jwc-5299",
       "noticeTitle": "汉江师范学院2023年普通专升本考试提醒",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5299.htm",
-      "noticePublishedAt": "2023-04-25"
+      "noticePublishedAt": "2023-04-25",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-05-07",
@@ -2662,10 +3205,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "各位考生：2023年湖北省普通高等学校专升本考试将于5月7日进行，为进一步端正考风，严肃考纪，共同创造良好的考试环境，确保考试安全、",
-      "noticeId": 5297,
+      "noticeId": "jwc-5297",
       "noticeTitle": "2023年湖北省普通高等学校专升本考试考生诚信守法考试告知书",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5297.htm",
-      "noticePublishedAt": "2023-04-21"
+      "noticePublishedAt": "2023-04-21",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-03-22",
@@ -2675,10 +3220,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "请登录报名平台查看《考生须知》。 2. 普通考生及专项计划考生报名时间为 3月22日8:00-3月26日18:00 。退役大学生士兵（含申请免试入学）报名分",
-      "noticeId": 5275,
+      "noticeId": "jwc-5275",
       "noticeTitle": "汉江师范学院2023年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5275.htm",
-      "noticePublishedAt": "2023-03-15"
+      "noticePublishedAt": "2023-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-03-26",
@@ -2688,10 +3235,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "生须知》。 2. 普通考生及专项计划考生报名时间为 3月22日8:00-3月26日18:00 。退役大学生士兵（含申请免试入学）报名分两个阶段：第一阶段，",
-      "noticeId": 5275,
+      "noticeId": "jwc-5275",
       "noticeTitle": "汉江师范学院2023年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5275.htm",
-      "noticePublishedAt": "2023-03-15"
+      "noticePublishedAt": "2023-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-03-05",
@@ -2701,10 +3250,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "18:00 。退役大学生士兵（含申请免试入学）报名分两个阶段：第一阶段， 3月5日 -9日进行预报名；第二阶段， 3月22日8:00-3月26日18:00",
-      "noticeId": 5275,
+      "noticeId": "jwc-5275",
       "noticeTitle": "汉江师范学院2023年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5275.htm",
-      "noticePublishedAt": "2023-03-15"
+      "noticePublishedAt": "2023-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-03-27",
@@ -2714,10 +3265,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "报考条件。 5. 报名期间可查看分校分专业报名情况，并可修改志愿。 6. 3月27日（ 8:00 — 18:00 ），我校对考生志愿信息进行审核；志愿信息审",
-      "noticeId": 5275,
+      "noticeId": "jwc-5275",
       "noticeTitle": "汉江师范学院2023年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5275.htm",
-      "noticePublishedAt": "2023-03-15"
+      "noticePublishedAt": "2023-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-03-28",
@@ -2727,10 +3280,12 @@
       "category": "其他",
       "relevance": "B",
       "context": "；志愿信息审核通过的考生不得再更改志愿信息；志愿信息审核未通过的考生可在 3月28日（ 8:00 — 17:00 ）更正志愿一次； 3月29日（ 8:00",
-      "noticeId": 5275,
+      "noticeId": "jwc-5275",
       "noticeTitle": "汉江师范学院2023年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5275.htm",
-      "noticePublishedAt": "2023-03-15"
+      "noticePublishedAt": "2023-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-03-30",
@@ -2740,10 +3295,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "生进行专业志愿终审。 7. 考生志愿审核通过后，于 3月27日8:00-3月30日14:00 从报名平台下载打印《 2023年湖北省普通高等学校专升本报名",
-      "noticeId": 5275,
+      "noticeId": "jwc-5275",
       "noticeTitle": "汉江师范学院2023年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5275.htm",
-      "noticePublishedAt": "2023-03-15"
+      "noticePublishedAt": "2023-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-04-06",
@@ -2753,10 +3310,12 @@
       "category": "报名",
       "relevance": "B",
       "context": "台。 （二）资格审核 1. 审核时间 2023年3月28日14:00 — 4月6日14:002. 审核流程考生在湖北普通专升本统一报名平台报名成功后，登录",
-      "noticeId": 5275,
+      "noticeId": "jwc-5275",
       "noticeTitle": "汉江师范学院2023年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5275.htm",
-      "noticePublishedAt": "2023-03-15"
+      "noticePublishedAt": "2023-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-05-07",
@@ -2766,10 +3325,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "）考试科目及时间安排专业名称科目一考试时间科目二考试时间学前教育大学英语 5月7日9:00 — 11:00 学前教育原理 5月7日15:00 — 17:0",
-      "noticeId": 5275,
+      "noticeId": "jwc-5275",
       "noticeTitle": "汉江师范学院2023年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5275.htm",
-      "noticePublishedAt": "2023-03-15"
+      "noticePublishedAt": "2023-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-04-29",
@@ -2779,10 +3340,12 @@
       "category": "考试",
       "relevance": "B",
       "context": "荣立三等功及以上的考生可免于参加综合考查。 （二）考试须知 1. 考生于 4月29日 -5月7日登陆我校专升本工作网站，进入“专升本信息服务平台”，自行打印",
-      "noticeId": 5275,
+      "noticeId": "jwc-5275",
       "noticeTitle": "汉江师范学院2023年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5275.htm",
-      "noticePublishedAt": "2023-03-15"
+      "noticePublishedAt": "2023-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
     },
     {
       "date": "2023-05-18",
@@ -2792,10 +3355,27 @@
       "category": "考试",
       "relevance": "B",
       "context": "、考试、离校，做好个人健康监测和防控措施。 （三）考试成绩发布考试成绩于 5月18日下午 16:00 在我校专升本网站上发布，考生凭身份证号查询成绩。如对成",
-      "noticeId": 5275,
+      "noticeId": "jwc-5275",
       "noticeTitle": "汉江师范学院2023年普通专升本招生简章",
       "noticeUrl": "https://jwc.hjnu.edu.cn/info/1141/5275.htm",
-      "noticePublishedAt": "2023-03-15"
+      "noticePublishedAt": "2023-03-15",
+      "source": "jwc",
+      "sourceName": "教务处"
+    },
+    {
+      "date": "2019-09-03",
+      "year": 2019,
+      "month": 9,
+      "day": 3,
+      "category": "其他",
+      "relevance": "C",
+      "context": "确定成交服务商。 十二、递交询价文件时间、地址及联系方式 1、截止时间：2019年9月3日上午9:30。逾期送达的询价文件恕不接受。 2、送达地址：十堰市北京南路",
+      "noticeId": "itsc-1182",
+      "noticeTitle": "汉江师范学院一卡通专线项目询价公告",
+      "noticeUrl": "https://it.hjnu.edu.cn/info/1062/1182.htm",
+      "noticePublishedAt": "2020-08-26",
+      "source": "itsc",
+      "sourceName": "教育数字化建设与管理处"
     }
   ]
 }

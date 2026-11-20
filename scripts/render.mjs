@@ -20,6 +20,8 @@ const TOPICS = [
   { key: "makeup", name: "补考", re: /补考/, accent: "#9c4a3c" },
   { key: "final", name: "期末考试", re: /期末考/, accent: "#6b4a7a" },
   { key: "transfer", name: "转专业", re: /转专业/, accent: "#3c6b7a" },
+  // 放最后：先让"开学补考"归到补考，剩下的"开学"才是真的开学
+  { key: "holiday", name: "假期与开学", re: /放假|寒假|暑假|节假日|开学|报到|调休/, accent: "#8a6a3f" },
 ];
 const topicByKey = Object.fromEntries(TOPICS.map((t) => [t.key, t]));
 
@@ -253,9 +255,9 @@ ${fs.readFileSync(path.join(ROOT, "styles/site.css"), "utf8")}
 <div class="wrap">
 
   <header class="hero">
-    <p class="kicker">汉江师范学院 · 教务处公开通知</p>
+    <p class="kicker">汉江师范学院 · 教务处 × 教育数字化建设与管理处</p>
     <h1>汉师<em>时间尺</em></h1>
-    <p class="lede">教务处 ${notices.length} 条通知里，真正跟"我什么时候要做什么"有关的只有 ${noticeList.length} 条。这个站把它们从公文里捞出来，按时间摊平——你能看见四六级、普通话、选课、补考每一年是怎么循环的。</p>
+    <p class="lede">两个部门 ${notices.length} 条通知里，真正跟"我什么时候要做什么"有关的只有 ${noticeList.length} 条。这个站把它们从公文里捞出来，按时间摊平——你能看见四六级、普通话、选课、补考、寒暑假每一年是怎么循环的。</p>
     <div class="stats">
       <div class="stat"><b>${notices.length}</b><span>条公开通知</span></div>
       <div class="stat"><b>${noticeList.length}</b><span>条含时间安排</span></div>
@@ -266,7 +268,7 @@ ${fs.readFileSync(path.join(ROOT, "styles/site.css"), "utf8")}
 
   <section class="sec">
     <div class="sec-head"><h2>接下来该盯哪个月</h2><p>按历史发布节奏推的，不是官方预告</p></div>
-    <p class="sub">教务处发通知的月份比考试日期还稳。下面这些月份，过去两年以上都在发同一类通知——到了就去看一眼。</p>
+    <p class="sub">学校发通知的月份比考试日期还稳。下面这些月份，过去两年以上都在发同一类通知——到了就去看一眼。</p>
     <div class="next">${upcomingHtml || '<p class="sub">历史数据还不足以推出规律。</p>'}</div>
   </section>
 
@@ -288,8 +290,8 @@ ${fs.readFileSync(path.join(ROOT, "styles/site.css"), "utf8")}
   </section>
 
   <footer class="foot">
-    <p>数据来自 <a href="https://jwc.hjnu.edu.cn/index/tzgg.htm" target="_blank" rel="noreferrer">汉江师范学院教务处 · 通知公告</a>，${crawledLabel} 抓取，共 ${notices.length} 条。只读公开页面，不涉及登录态或个人信息。</p>
-    <p>时间点由脚本从通知正文自动抽取，可能有误，以教务处原文为准。生成于 ${esc(noticeBundle.crawledAt)}</p>
+    <p>数据来自 <a href="https://jwc.hjnu.edu.cn/index/tzgg.htm" target="_blank" rel="noreferrer">教务处 · 通知公告</a> 与 <a href="https://it.hjnu.edu.cn/tzgg.htm" target="_blank" rel="noreferrer">教育数字化建设与管理处 · 通知公告</a>，${crawledLabel} 抓取，共 ${notices.length} 条。只读公开页面，不涉及登录态或个人信息。</p>
+    <p>时间点由脚本从通知正文自动抽取，可能有误，以学校原文为准。生成于 ${esc(noticeBundle.crawledAt)}</p>
   </footer>
 
 </div>
